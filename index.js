@@ -7,17 +7,47 @@ void (async () => {
         const page = await browser.newPage()
         page.setViewport({ width: 1280, height: 926 });
 
-        await page.goto('https://www.jiomart.com/c/groceries/staples/13')
+        await page.setDefaultNavigationTimeout(0); 
+        await page.goto('https://www.jiomart.com/')
 
         await page.exposeFunction("loadAllPages", loadAllPages);
         await page.exposeFunction("evaluate", evaluate);
         await page.exposeFunction("logger", logger);
+        await page.exposeFunction("main", main);
+        await page.exposeFunction("writeToFile", writeToFile);
 
-        loadAllPages();
+        
+        items=[]
+
+        main(0);
+        // Click on all categories and call loadAllPages
+        async function main(i){
+        
+            setTimeout(()=>{
+                if (i==8){
+                    writeToFile();
+                } else {
+                    page.evaluate((i)=>{
+                        logger(i);
+                        categories = document.querySelectorAll(".o-menu>a");
+                        categories[i].click();
+                        loadAllPages();
+                        main(i+1);
+                    },i).catch((err) => { console.log(err) });
+                }
+            },15000);   
+        }      
+
+        async function writeToFile(){
+            console.log(items);
+            fs.writeFileSync('./items.txt', JSON.stringify(items, null, 2));
+            await browser.close();
+        }
 
         // Click all next buttons and evaluate items
         function loadAllPages() {
             setTimeout(()=>{
+                items.push(page.url());
                 console.log(page.url());
                 evaluate();
                 page.evaluate(()=>{
@@ -28,7 +58,7 @@ void (async () => {
                         logger("Done!");
                     }
                 }).catch((err)=>console.log(err))
-            },3000)
+            },2000)
         }
 
         function logger(data){
@@ -83,9 +113,9 @@ void (async () => {
 
             }).then((result) => {
                 console.log(result);
+                items.push(result);
             }).catch((err) => { console.log(err) })
         }
 
-        // await browser.close()
         
 })();
