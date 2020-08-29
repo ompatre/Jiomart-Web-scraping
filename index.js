@@ -4,7 +4,7 @@ const fs = require('fs')
 void (async () => {
 
         const browser = await puppeteer.launch({headless: false});
-        const page = await browser.newPage()
+        const page = await browser.newPage();
         page.setViewport({ width: 1280, height: 926 });
 
         await page.goto('https://www.jiomart.com/c/groceries/staples/13')
