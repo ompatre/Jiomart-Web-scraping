@@ -10,10 +10,10 @@ var fs = require("fs");
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
   console.log("hello");
- 
+
   await page.goto("https://www.jiomart.com/c/groceries/staples/13");
 
-  let mm="1";
+  let mm = "1";
   await page.evaluate(() => {
     mm = document.getElementsByClassName(`cat-submenu-level1`);
     /*console.log('101');
@@ -23,7 +23,7 @@ var fs = require("fs");
 
 
   await page.evaluate(() => {
-    var data=[];
+    var data = [];
     console.log('1');
     for (let i of document.getElementsByClassName(`cat-submenu-level1`)) {
       console.log('1');
@@ -33,6 +33,7 @@ var fs = require("fs");
         page.setViewport({ width: 1280, height: 926 });
         var cc = i.attributes["href"].value;
         await page.goto(cc);
+        await page.setDefaultNavigationTimeout(0);
         console.log(cc);
 
         data.push('\n');
@@ -70,7 +71,7 @@ var fs = require("fs");
         function evaluate() {
           page.evaluate(() => {
 
-            
+
 
             var items = document.querySelectorAll('.product-list .col-md-3');
 
