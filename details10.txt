@@ -164,7 +164,6 @@
     }
   ],
   "https://www.jiomart.com/c/groceries/fruits-vegetables/219/page/2",
-  null,
   [
     {
       "name": "Lemon - 100 g",
@@ -428,7 +427,6 @@
     }
   ],
   "https://www.jiomart.com/c/groceries/dairy-bakery/61/page/2",
-  null,
   [
     {
       "name": "Wibs Browny Whole Wheat Bread 400 g",
@@ -592,7 +590,6 @@
     }
   ],
   "https://www.jiomart.com/c/groceries/dairy-bakery/61/page/3",
-  null,
   [
     {
       "name": "Gokul Curd 1 Kg (Pouch)",
@@ -800,7 +797,6 @@
     }
   ],
   "https://www.jiomart.com/c/groceries/staples/13/page/2",
-  null,
   [
     {
       "name": "Rawa 500 g",
@@ -964,7 +960,6 @@
     }
   ],
   "https://www.jiomart.com/c/groceries/staples/13/page/3",
-  null,
   [
     {
       "name": "Good Life Urad Whole 500 g",
@@ -1332,7 +1327,6 @@
     }
   ],
   "https://www.jiomart.com/c/groceries/personal-care/91/page/2",
-  null,
   [
     {
       "name": "Himalaya Purifying Neem Face Wash 150 ml",
@@ -1496,7 +1490,6 @@
     }
   ],
   "https://www.jiomart.com/c/groceries/personal-care/91/page/3",
-  null,
   [
     {
       "name": "Nivea Crème 100 ml",
@@ -1660,7 +1653,6 @@
     }
   ],
   "https://www.jiomart.com/c/groceries/personal-care/91/page/4",
-  null,
   [
     {
       "name": "Secret Temptation Romance Body Deodorant for Women 150 ml",
@@ -1824,7 +1816,6 @@
     }
   ],
   "https://www.jiomart.com/c/groceries/personal-care/91/page/5",
-  null,
   [
     {
       "name": "Biotique Bio Basil & Parsley Revitalizing Body Soap 75 g",
@@ -2040,7 +2031,6 @@
     }
   ],
   "https://www.jiomart.com/c/groceries/home-care/36/page/2",
-  null,
   [
     {
       "name": "Henko Matic Front Load Detergent Powder 1 kg",

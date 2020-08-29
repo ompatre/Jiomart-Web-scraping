@@ -33,7 +33,7 @@ void (async () => {
                         var ww= categories[i].innerText;
                         categories[i].click();
                         
-                        loadAllPages(ww);
+                        loadAllPages(ww,0);
                         main(i+1);
                     },i).catch((err) => { console.log(err) });
                 }
@@ -47,10 +47,13 @@ void (async () => {
         }
 
         // Click all next buttons and evaluate items
-        function loadAllPages(mm) {
+        function loadAllPages(mm,cnt) {
             setTimeout(()=>{
                 items.push(page.url());
-                items.push(mm);
+                if(cnt===0){
+                    items.push(mm);
+                    ++cnt;
+                }
                 //console.log
                 console.log(page.url());
                 evaluate();
