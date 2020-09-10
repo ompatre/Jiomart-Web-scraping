@@ -10,12 +10,7 @@ void (async () => {
         await page.setDefaultNavigationTimeout(0); 
         await page.goto('https://www.jiomart.com/')
 
-        await page.exposeFunction("loadAllPages", loadAllPages);
-        await page.exposeFunction("evaluate", evaluate);
         await page.exposeFunction("logger", logger);
-        await page.exposeFunction("main", main);
-        await page.exposeFunction("wait", wait);
-        await page.exposeFunction("writeToFile", writeToFile);
 
         
         let items=[]
