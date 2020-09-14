@@ -1,6 +1,4 @@
 [
-  "Fruits & Vegetables",
-  " Fresh Fruits ",
   "https://www.jiomart.com/c/groceries/fruits-vegetables/fresh-fruits/220",
   [
     {
@@ -108,7 +106,6 @@
       "offer": "NaN"
     }
   ],
-  " Fresh Vegetables ",
   "https://www.jiomart.com/c/groceries/fruits-vegetables/fresh-vegetables/229",
   [
     {
@@ -224,7 +221,6 @@
       "offer": "NaN"
     }
   ],
-  " Herbs & Seasonings ",
   "https://www.jiomart.com/c/groceries/fruits-vegetables/herbs-seasonings/233",
   [
     {
@@ -260,7 +256,6 @@
       "offer": "NaN"
     }
   ],
-  " Exotic Fruits & Vegetables ",
   "https://www.jiomart.com/c/groceries/fruits-vegetables/exotic-fruits-vegetables/243",
   [
     {
@@ -280,9 +275,7 @@
       "offer": "NaN"
     }
   ],
-  "Category Finished!",
-  "Dairy & Bakery",
-  " Dairy ",
+  "Category Finished!\n",
   "https://www.jiomart.com/c/groceries/dairy-bakery/dairy/62",
   [
     {
@@ -438,7 +431,6 @@
       "offer": "7%"
     }
   ],
-  " Breads and Buns ",
   "https://www.jiomart.com/c/groceries/dairy-bakery/breads-and-buns/267",
   [
     {
@@ -514,9 +506,7 @@
       "offer": "50%"
     }
   ],
-  "Category Finished!",
-  "Staples",
-  " Atta, Flours & Sooji ",
+  "Category Finished!\n",
   "https://www.jiomart.com/c/groceries/staples/atta-flours-sooji/26",
   [
     {
@@ -536,7 +526,6 @@
       "offer": "50%"
     }
   ],
-  " Dals & Pulses ",
   "https://www.jiomart.com/c/groceries/staples/dals-pulses/17",
   [
     {
@@ -580,7 +569,6 @@
       "offer": "14%"
     }
   ],
-  " Rice & Rice Products ",
   "https://www.jiomart.com/c/groceries/staples/rice-rice-products/14",
   [
     {
@@ -600,7 +588,6 @@
       "offer": "29%"
     }
   ],
-  " Masalas & Spices ",
   "https://www.jiomart.com/c/groceries/staples/masalas-spices/21",
   [
     {
@@ -636,7 +623,6 @@
       "offer": "10%"
     }
   ],
-  " Salt, Sugar & Jaggery ",
   "https://www.jiomart.com/c/groceries/staples/salt-sugar-jaggery/23",
   [
     {
@@ -680,7 +666,6 @@
       "offer": "29%"
     }
   ],
-  " Soya Products, Wheat & Other Grains ",
   "https://www.jiomart.com/c/groceries/staples/soya-products-wheat-other-grains/106",
   [
     {
@@ -700,9 +685,7 @@
       "offer": "18%"
     }
   ],
-  "Category Finished!",
-  "Snacks & Branded Foods",
-  " Biscuits & Cookies ",
+  "Category Finished!\n",
   "https://www.jiomart.com/c/groceries/snacks-branded-foods/biscuits-cookies/11",
   [
     {
@@ -730,7 +713,6 @@
       "offer": "10%"
     }
   ],
-  " Noodle, Pasta, Vermicelli ",
   "https://www.jiomart.com/c/groceries/snacks-branded-foods/noodle-pasta-vermicelli/86",
   [
     {
@@ -750,7 +732,6 @@
       "offer": "23%"
     }
   ],
-  " Snacks & Namkeen ",
   "https://www.jiomart.com/c/groceries/snacks-branded-foods/snacks-namkeen/43",
   [
     {
@@ -786,7 +767,6 @@
       "offer": "10%"
     }
   ],
-  " Ready To Cook & Eat ",
   "https://www.jiomart.com/c/groceries/snacks-branded-foods/ready-to-cook-eat/53",
   [
     {
@@ -806,9 +786,7 @@
       "offer": "50%"
     }
   ],
-  "Category Finished!",
-  "Beverages",
-  " Tea ",
+  "Category Finished!\n",
   "https://www.jiomart.com/c/groceries/beverages/tea/34",
   [
     {
@@ -828,7 +806,6 @@
       "offer": "7%"
     }
   ],
-  " Coffee ",
   "https://www.jiomart.com/c/groceries/beverages/coffee/94",
   [
     {
@@ -840,7 +817,6 @@
       "offer": "NaN"
     }
   ],
-  " Health Drink & Supplement ",
   "https://www.jiomart.com/c/groceries/beverages/health-drink-supplement/49",
   [
     {
@@ -860,9 +836,7 @@
       "offer": "10%"
     }
   ],
-  "Category Finished!",
-  "Personal Care",
-  " Hair Care ",
+  "Category Finished!\n",
   "https://www.jiomart.com/c/groceries/personal-care/hair-care/92",
   [
     {
@@ -1045,7 +1019,6 @@
       "offer": "7%"
     }
   ],
-  " Oral Care ",
   "https://www.jiomart.com/c/groceries/personal-care/oral-care/132",
   [
     {
@@ -1137,7 +1110,6 @@
       "offer": "NaN"
     }
   ],
-  " Skin Care ",
   "https://www.jiomart.com/c/groceries/personal-care/skin-care/122",
   [
     {
@@ -1197,7 +1169,6 @@
       "offer": "31%"
     }
   ],
-  " Bath & Hand Wash ",
   "https://www.jiomart.com/c/groceries/personal-care/bath-hand-wash/119",
   [
     {
@@ -1353,7 +1324,6 @@
       "offer": "10%"
     }
   ],
-  " Body Wash & Bathing Accessories ",
   "https://www.jiomart.com/c/groceries/personal-care/body-wash-bathing-accessories/179",
   [
     {
@@ -1365,7 +1335,6 @@
       "offer": "50%"
     }
   ],
-  " Feminine Hygiene ",
   "https://www.jiomart.com/c/groceries/personal-care/feminine-hygiene/134",
   [
     {
@@ -1393,7 +1362,6 @@
       "offer": "7%"
     }
   ],
-  " Men's Grooming ",
   "https://www.jiomart.com/c/groceries/personal-care/men-s-grooming/163",
   [
     {
@@ -1437,7 +1405,6 @@
       "offer": "7%"
     }
   ],
-  " Deo & Fragrances ",
   "https://www.jiomart.com/c/groceries/personal-care/deo-fragrances/172",
   [
     {
@@ -1628,7 +1595,6 @@
       "offer": "20%"
     }
   ],
-  " Health & Wellness ",
   "https://www.jiomart.com/c/groceries/personal-care/health-wellness/165",
   [
     {
@@ -1648,7 +1614,6 @@
       "offer": "7%"
     }
   ],
-  " Covid Essentials ",
   "https://www.jiomart.com/c/groceries/personal-care/covid-essentials/373",
   [
     {
@@ -1692,9 +1657,7 @@
       "offer": "7%"
     }
   ],
-  "Category Finished!",
-  "Home Care",
-  " Detergents ",
+  "Category Finished!\n",
   "https://www.jiomart.com/c/groceries/home-care/detergents/37",
   [
     {
@@ -1810,7 +1773,6 @@
       "offer": "NaN"
     }
   ],
-  " Dishwash ",
   "https://www.jiomart.com/c/groceries/home-care/dishwash/148",
   [
     {
@@ -1838,7 +1800,6 @@
       "offer": "7%"
     }
   ],
-  " All Purpose Cleaners ",
   "https://www.jiomart.com/c/groceries/home-care/all-purpose-cleaners/152",
   [
     {
@@ -1850,7 +1811,6 @@
       "offer": "7%"
     }
   ],
-  " Fresheners & Repellents ",
   "https://www.jiomart.com/c/groceries/home-care/fresheners-repellents/65",
   [
     {
@@ -1862,7 +1822,6 @@
       "offer": "7%"
     }
   ],
-  " Mops, Brushes & Scrubs ",
   "https://www.jiomart.com/c/groceries/home-care/mops-brushes-scrubs/184",
   [
     {
@@ -1882,7 +1841,6 @@
       "offer": "54%"
     }
   ],
-  " Electrical ",
   "https://www.jiomart.com/c/groceries/home-care/electrical/175",
   [
     {
@@ -1902,7 +1860,6 @@
       "offer": "10%"
     }
   ],
-  " Disposables ",
   "https://www.jiomart.com/c/groceries/home-care/disposables/170",
   [
     {
@@ -1914,7 +1871,6 @@
       "offer": "23%"
     }
   ],
-  " Pooja Needs ",
   "https://www.jiomart.com/c/groceries/home-care/pooja-needs/156",
   [
     {
@@ -1926,7 +1882,6 @@
       "offer": "10%"
     }
   ],
-  " Shoe Care ",
   "https://www.jiomart.com/c/groceries/home-care/shoe-care/139",
   [
     {
@@ -2002,9 +1957,7 @@
       "offer": "7%"
     }
   ],
-  "Category Finished!",
-  "Baby Care",
-  " Baby Grooming ",
+  "Category Finished!\n",
   "https://www.jiomart.com/c/groceries/baby-care/baby-grooming/158",
   [
     {
@@ -2032,7 +1985,6 @@
       "offer": "7%"
     }
   ],
-  " Baby Bath & Hygiene ",
   "https://www.jiomart.com/c/groceries/baby-care/baby-bath-hygiene/197",
   [
     {
@@ -2076,7 +2028,6 @@
       "offer": "7%"
     }
   ],
-  " Diapers & Wipes ",
   "https://www.jiomart.com/c/groceries/baby-care/diapers-wipes/202",
   [
     {
@@ -2088,5 +2039,5 @@
       "offer": "50%"
     }
   ],
-  "Category Finished!"
+  "Category Finished!\n"
 ]

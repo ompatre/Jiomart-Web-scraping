@@ -1,5 +1,5 @@
 const puppeteer = require('puppeteer')
-const fs = require('fs');
+const fs = require('fs')
 
 void (async () => {
 
@@ -10,105 +10,63 @@ void (async () => {
         await page.setDefaultNavigationTimeout(0); 
         await page.goto('https://www.jiomart.com/')
 
+        await page.exposeFunction("loadAllPages", loadAllPages);
+        await page.exposeFunction("evaluate", evaluate);
         await page.exposeFunction("logger", logger);
+        await page.exposeFunction("main", main);
+        await page.exposeFunction("writeToFile", writeToFile);
 
         
-        let items=[]
-        await wait(2000);
-        await main();
+        items=[]
 
+        main(0);
         // Click on all categories and call loadAllPages
-        async function main(){
-
-            for (let i=0; i<8; i++){
-                
-                let subCategories=0;
-
-                await page.evaluate(async (i)=>{
-                    
-                    categories = document.querySelectorAll(".o-menu ");
-                    title = categories[i].querySelector("a").innerText;
-                    logger(title);
-                    return [categories[i].querySelectorAll("a").length,title];
-
-                },i).then((arr)=> {
-                    subCategories=arr[0];
-                    items.push(arr[1]);
-                })
-                .catch((err) => { console.log(err) });
-
-                for (let j=1; j<subCategories; j++){
-                    await wait(3000);
-
-                    await page.evaluate(async (arr)=>{
-                        categories = document.querySelectorAll(".o-menu ");
-                        sub = categories[arr[1]].querySelectorAll("a");
-                        subTitle = sub[arr[0]].innerText;
-                        logger(arr[0]+". "+subTitle);
-                        await sub[arr[0]].click();
-                        return subTitle;
-                    },[j,i]).then((res)=>{items.push(res);})
-                    .catch((err) => { console.log(err) });
-
-                    await loadAllPages();
+        async function main(i){
+        
+            setTimeout(()=>{
+                if (i==8){
+                    writeToFile();
+                } else {
+                    page.evaluate((i)=>{
+                        logger(i);
+                        categories = document.querySelectorAll(".o-menu>a");
+                        categories[i].click();
+                        loadAllPages();
+                        main(i+1);
+                    },i).catch((err) => { console.log(err) });
                 }
-
-                console.log("Category Finished!\n");
-                items.push("Category Finished!");
-            }
-
-            writeToFile();
+            },15000);   
         }      
 
         async function writeToFile(){
+            console.log(items);
             fs.writeFileSync('./items.txt', JSON.stringify(items, null, 2));
             await browser.close();
         }
-        
-        async function wait(ms) {
-            return new Promise(resolve => {
-              setTimeout(resolve, ms);
-            });
-        }
- 
-        // Click all next buttons and evaluate items
-        async function loadAllPages() {
-            let flag=true;
-            while (true){
 
-                await wait(3000);
+        // Click all next buttons and evaluate items
+        function loadAllPages() {
+            setTimeout(()=>{
                 items.push(page.url());
                 console.log(page.url());
-
-                await evaluate();
-
-                await page.evaluate(async ()=>{
+                evaluate();
+                page.evaluate(()=>{
                     if (!(document.querySelector(".next")==null)){
-                        await document.querySelector(".next > a").click();
+                        document.querySelector(".next > a").click();
+                        loadAllPages();
                     }else{
                         logger("Done!");
-                        return false;
                     }
-                }).then((res)=>{
-                    if (res==false){
-                        flag=false;
-                    }
-                })
-                .catch((err)=>console.log("ERRORRR"))
-                
-                if (flag==false){
-                    break;
-                }
-            }
+                }).catch((err)=>console.log(err))
+            },2000)
         }
 
-        
         function logger(data){
             console.log(data);
         }
 
-        async function evaluate(){            
-            await page.evaluate(() => {
+        function evaluate(){            
+                page.evaluate(() => {
                 
                 var data=[] 
 
@@ -158,5 +116,6 @@ void (async () => {
                 items.push(result);
             }).catch((err) => { console.log(err) })
         }
-   
+
+        
 })();
