@@ -10,7 +10,6 @@ var fs = require("fs");
   const page = await browser.newPage();
   console.log("hello");
   await page.goto("https://grofers.com/cn/grocery-staples/cid/16");
-  
 
   await autoScroll(page);
 
