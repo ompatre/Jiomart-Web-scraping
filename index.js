@@ -13,16 +13,19 @@ void (async () => {
         await page.exposeFunction("logger", logger);
 
         
-        let items=[]
+        // let items=[]
         await wait(2000);
-        await main();
+        let data=await main();
+        writeToFile(data);
+
 
         // Click on all categories and call loadAllPages
         async function main(){
-
+            let data={};
             for (let i=0; i<8; i++){
                 
                 let subCategories=0;
+                let title;
 
                 await page.evaluate(async (i)=>{
                     
@@ -33,13 +36,15 @@ void (async () => {
 
                 },i).then((arr)=> {
                     subCategories=arr[0];
-                    items.push(arr[1]);
+                    title=arr[1];
                 })
                 .catch((err) => { console.log(err) });
 
+                let data2={};
                 for (let j=1; j<subCategories; j++){
                     await wait(3000);
-
+                    
+                    let subTitle="";
                     await page.evaluate(async (arr)=>{
                         categories = document.querySelectorAll(".o-menu ");
                         sub = categories[arr[1]].querySelectorAll("a");
@@ -47,21 +52,24 @@ void (async () => {
                         logger(arr[0]+". "+subTitle);
                         await sub[arr[0]].click();
                         return subTitle;
-                    },[j,i]).then((res)=>{items.push(res);})
+                    },[j,i]).then((res)=>{
+                        subTitle=res;
+                    })
                     .catch((err) => { console.log(err) });
 
-                    await loadAllPages();
+                    res = await loadAllPages();
+                    data2[subTitle]=res;
                 }
 
-                console.log("Category Finished!\n");
-                items.push("Category Finished!");
-            }
+                data[title]=data2;
 
-            writeToFile();
+                console.log("Category Finished!\n");
+            }
+            return data;
         }      
 
-        async function writeToFile(){
-            fs.writeFileSync('./items.txt', JSON.stringify(items, null, 2));
+        async function writeToFile(data){
+            fs.writeFileSync('./newitems.txt', JSON.stringify(data, null, 2));
             await browser.close();
         }
         
@@ -74,13 +82,17 @@ void (async () => {
         // Click all next buttons and evaluate items
         async function loadAllPages() {
             let flag=true;
+            let data=[];
             while (true){
 
                 await wait(3000);
-                items.push(page.url());
                 console.log(page.url());
 
-                await evaluate();
+                let res=await evaluate();
+                console.log(res);
+                for (i=0;i<res.length;i++){
+                    data.push(res[i]);
+                }
 
                 await page.evaluate(async ()=>{
                     if (!(document.querySelector(".next")==null)){
@@ -100,6 +112,7 @@ void (async () => {
                     break;
                 }
             }
+            return data;
         }
 
         
@@ -107,7 +120,8 @@ void (async () => {
             console.log(data);
         }
 
-        async function evaluate(){            
+        async function evaluate(){      
+            let data=[];      
             await page.evaluate(() => {
                 
                 var data=[] 
@@ -154,9 +168,10 @@ void (async () => {
                 return data;
 
             }).then((result) => {
-                console.log(result);
-                items.push(result);
+                data=result;
             }).catch((err) => { console.log(err) })
+            
+            return data;
         }
    
 })();

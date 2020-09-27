@@ -1,0 +1,4808 @@
+{
+  "Fruits & Vegetables": {
+    " Fresh Fruits ": [
+      {
+        "name": "Orange 6 pcs (Pack)",
+        "brand": "",
+        "price": "₹ 59.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Banana Robusta 6 Pcs (Box)",
+        "brand": "",
+        "price": "₹ 36.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Mosambi 1 kg",
+        "brand": "",
+        "price": "₹ 52.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Apple Indian 6 pcs (Pack)",
+        "brand": "",
+        "price": "₹ 139.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Apple Royal Gala (6 Piece Pack)",
+        "brand": "",
+        "price": "₹ 249.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Pineapple Queen 1 pc",
+        "brand": "",
+        "price": "₹ 55.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Dates Imported 400 g (Pack)",
+        "brand": "",
+        "price": "₹ 149.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Orange Imported 1 kg",
+        "brand": "",
+        "price": "₹ 208.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Watermelon Kiran 2.5 kg",
+        "brand": "",
+        "price": "₹ 97.50",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Tender Coconut 1 pc",
+        "brand": "",
+        "price": "₹ 39.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Kiwi Gold Zespri 3 Piece Pack",
+        "brand": "",
+        "price": "₹ 119.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Apple Red Delicious 4 pcs (Pack)",
+        "brand": "",
+        "price": "₹ 219.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      }
+    ],
+    " Fresh Vegetables ": [
+      {
+        "name": "Bhendi (Okra) per 500 g",
+        "brand": "",
+        "price": "₹ 27.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Cucumber 500 g",
+        "brand": "",
+        "price": "₹ 19.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Lauki (Bottle Gourd) 1 kg",
+        "brand": "",
+        "price": "₹ 39.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Coconut 1 pc",
+        "brand": "",
+        "price": "₹ 32.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Cabbage 1 pc",
+        "brand": "",
+        "price": "₹ 24.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Sweet Corn 1 pc",
+        "brand": "",
+        "price": "₹ 12.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Potato per kg",
+        "brand": "",
+        "price": "₹ 45.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Onion 5 kg (Pack)",
+        "brand": "",
+        "price": "₹ 245.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Tomato per kg",
+        "brand": "",
+        "price": "₹ 39.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Onion-1 kg",
+        "brand": "",
+        "price": "₹ 49.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Green Capsicum 500 g",
+        "brand": "",
+        "price": "₹ 44.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Sweet Potato 1 kg",
+        "brand": "",
+        "price": "₹ 94.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Beetroot 500 g",
+        "brand": "",
+        "price": "₹ 24.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Arbi (Colocasia) Small 500 g",
+        "brand": "",
+        "price": "₹ 29.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Onion Sambhar 1 kg",
+        "brand": "",
+        "price": "₹ 124.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      }
+    ],
+    " Herbs & Seasonings ": [
+      {
+        "name": "Garlic Indian 200 g",
+        "brand": "",
+        "price": "₹ 41.80",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Ginger Indian 200 g",
+        "brand": "",
+        "price": "₹ 19.80",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Lemon - 100 g",
+        "brand": "",
+        "price": "₹ 8.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Chilli Green - 200 gram",
+        "brand": "",
+        "price": "₹ 17.60",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      }
+    ],
+    " Exotic Fruits & Vegetables ": [
+      {
+        "name": "Imported Kiwi 5 pcs",
+        "brand": "",
+        "price": "₹ 139.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Lemongrass 1 bunch",
+        "brand": "",
+        "price": "₹ 20.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      }
+    ]
+  },
+  "Dairy & Bakery": {
+    " Dairy ": [
+      {
+        "name": "Amul Pasteurised Butter 500 g (Carton)",
+        "brand": "",
+        "price": "₹ 218.00",
+        "oldPrice": "₹ 235.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Amul Pure Ghee 1 L (Pouch)",
+        "brand": "",
+        "price": "₹ 451.00",
+        "oldPrice": "₹ 485.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Amul Taaza Homogenised Toned Long Life Milk 1 L (Tetra Pak)",
+        "brand": "",
+        "price": "₹ 61.00",
+        "oldPrice": "₹ 64.00",
+        "sodexo": "Eligible",
+        "offer": "4%"
+      },
+      {
+        "name": "Amul Pasteurised Butter 100 g (Carton)",
+        "brand": "",
+        "price": "₹ 44.00",
+        "oldPrice": "₹ 48.00",
+        "sodexo": "Eligible",
+        "offer": "8%"
+      },
+      {
+        "name": "Amul Fresh Paneer 200 g (Pack)",
+        "brand": "",
+        "price": "₹ 68.00",
+        "oldPrice": "₹ 73.00",
+        "sodexo": "Eligible",
+        "offer": "6%"
+      },
+      {
+        "name": "Gowardhan Pure Cow Ghee 1 L (Pouch)",
+        "brand": "",
+        "price": "₹ 499.00",
+        "oldPrice": "₹ 570.00",
+        "sodexo": "Eligible",
+        "offer": "12%"
+      },
+      {
+        "name": "Amul Plain Cheese Slices 200 g (Pack)",
+        "brand": "",
+        "price": "₹ 113.46",
+        "oldPrice": "₹ 122.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Nestle Milkmaid Sweetened Condensed Milk 400 g (Tin)",
+        "brand": "",
+        "price": "₹ 104.00",
+        "oldPrice": "₹ 125.00",
+        "sodexo": "Eligible",
+        "offer": "16%"
+      },
+      {
+        "name": "Amul Masti Dahi 1 kg (Pouch)",
+        "brand": "",
+        "price": "₹ 63.00",
+        "oldPrice": "₹ 65.00",
+        "sodexo": "Eligible",
+        "offer": "3%"
+      },
+      {
+        "name": "Nandini Goodlife Toned Long Life Milk 1 L (Tetra Pak)",
+        "brand": "",
+        "price": "₹ 58.00",
+        "oldPrice": "₹ 62.00",
+        "sodexo": "Eligible",
+        "offer": "6%"
+      },
+      {
+        "name": "Britannia Cheese Slices 200 g (Pack)",
+        "brand": "",
+        "price": "₹ 135.00",
+        "oldPrice": "₹ 155.00",
+        "sodexo": "Eligible",
+        "offer": "12%"
+      },
+      {
+        "name": "Gowardhan Plain Cheese Slices 476 g (Pouch)",
+        "brand": "",
+        "price": "₹ 235.00",
+        "oldPrice": "₹ 360.00",
+        "sodexo": "Eligible",
+        "offer": "34%"
+      },
+      {
+        "name": "Britannia Cheese Cubes 200 g (Carton)",
+        "brand": "",
+        "price": "₹ 134.00",
+        "oldPrice": "₹ 150.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Britannia Cheese Slices 480 g (Pack)",
+        "brand": "",
+        "price": "₹ 299.00",
+        "oldPrice": "₹ 400.00",
+        "sodexo": "Eligible",
+        "offer": "25%"
+      },
+      {
+        "name": "Britannia Cheezza 200 g (Carton)",
+        "brand": "",
+        "price": "₹ 139.00",
+        "oldPrice": "₹ 150.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Gowardhan Fresh Paneer 200 g (Pouch)",
+        "brand": "",
+        "price": "₹ 75.00",
+        "oldPrice": "₹ 85.00",
+        "sodexo": "Eligible",
+        "offer": "11%"
+      },
+      {
+        "name": "Amul Masti Spiced Buttermilk 1 L (Tetra Pak)",
+        "brand": "",
+        "price": "₹ 46.50",
+        "oldPrice": "₹ 50.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Britannia Cheese Block 400 g (Carton)",
+        "brand": "",
+        "price": "₹ 240.00",
+        "oldPrice": "₹ 290.00",
+        "sodexo": "Eligible",
+        "offer": "17%"
+      },
+      {
+        "name": "Amul Kool Kesar Flavoured Milk 180 ml (Bottle)",
+        "brand": "",
+        "price": "₹ 18.60",
+        "oldPrice": "₹ 20.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Prabhat Malai Paneer 400 g (Pouch)",
+        "brand": "",
+        "price": "₹ 99.00",
+        "oldPrice": "₹ 165.00",
+        "sodexo": "Eligible",
+        "offer": "40%"
+      },
+      {
+        "name": "Britannia Cheese Block 200 g (Carton)",
+        "brand": "",
+        "price": "₹ 140.00",
+        "oldPrice": "₹ 155.00",
+        "sodexo": "Eligible",
+        "offer": "9%"
+      },
+      {
+        "name": "Amul Taaza Toned Long Life Milk 200 ml (Tetra Pak)",
+        "brand": "",
+        "price": "₹ 13.30",
+        "oldPrice": "₹ 14.00",
+        "sodexo": "Eligible",
+        "offer": "5%"
+      },
+      {
+        "name": "Mother Dairy Curd 1 kg (Pouch)",
+        "brand": "",
+        "price": "₹ 63.00",
+        "oldPrice": "₹ 65.00",
+        "sodexo": "Eligible",
+        "offer": "3%"
+      },
+      {
+        "name": "Go Plain Cheese Slices 750 g (Pouch)",
+        "brand": "",
+        "price": "₹ 360.00",
+        "oldPrice": "₹ 390.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Mother Dairy Table Butter 500 g (Carton)",
+        "brand": "",
+        "price": "₹ 232.75",
+        "oldPrice": "₹ 245.00",
+        "sodexo": "Eligible",
+        "offer": "5%"
+      },
+      {
+        "name": "Mother Dairy Plain Cheese Slices 200 g (Pouch)",
+        "brand": "",
+        "price": "₹ 123.50",
+        "oldPrice": "₹ 130.00",
+        "sodexo": "Eligible",
+        "offer": "5%"
+      },
+      {
+        "name": "Britannia Classic Cheese Spreadz 180 g (Container)",
+        "brand": "",
+        "price": "₹ 99.00",
+        "oldPrice": "₹ 135.00",
+        "sodexo": "Eligible",
+        "offer": "26%"
+      },
+      {
+        "name": "Moowing Cow Curd 1 kg (Pouch)",
+        "brand": "",
+        "price": "₹ 49.00",
+        "oldPrice": "₹ 65.00",
+        "sodexo": "Eligible",
+        "offer": "24%"
+      },
+      {
+        "name": "Gokul Curd 1 Kg (Pouch)",
+        "brand": "",
+        "price": "₹ 62.00",
+        "oldPrice": "₹ 65.00",
+        "sodexo": "Eligible",
+        "offer": "4%"
+      },
+      {
+        "name": "Dynamix Cow Ghee 500 ml (Pouch)",
+        "brand": "",
+        "price": "₹ 246.45",
+        "oldPrice": "₹ 265.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Punjabi Malai Paneer 400 g (Pack)",
+        "brand": "",
+        "price": "₹ 125.00",
+        "oldPrice": "₹ 150.00",
+        "sodexo": "Eligible",
+        "offer": "16%"
+      },
+      {
+        "name": "Mother Dairy Table Butter 100 g (Carton)",
+        "brand": "",
+        "price": "₹ 47.50",
+        "oldPrice": "₹ 50.00",
+        "sodexo": "Eligible",
+        "offer": "5%"
+      },
+      {
+        "name": "Nutralite Table Spread 200 g (Tub)",
+        "brand": "",
+        "price": "₹ 79.98",
+        "oldPrice": "₹ 86.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Punjab Sindh Dahi 1 kg (Pouch)",
+        "brand": "",
+        "price": "₹ 55.00",
+        "oldPrice": "₹ 70.00",
+        "sodexo": "Eligible",
+        "offer": "21%"
+      },
+      {
+        "name": "The Laughing Cow Plain Cheese Spread 200 g (Carton)",
+        "brand": "",
+        "price": "₹ 102.30",
+        "oldPrice": "₹ 110.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      }
+    ],
+    "Toast & Khari": [
+      {
+        "name": "Parle Elaichi Rusk 400 g",
+        "brand": "",
+        "price": "₹ 48.00",
+        "oldPrice": "₹ 60.00",
+        "sodexo": "Eligible",
+        "offer": "20%"
+      },
+      {
+        "name": "Parle Real Elaichi Premium Rusk 200 g",
+        "brand": "",
+        "price": "₹ 27.00",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      }
+    ],
+    " Cakes & Muffins ": [
+      {
+        "name": "Monginis Choco Veg Muffins 22 g (Pack of 6)",
+        "brand": "",
+        "price": "₹ 36.00",
+        "oldPrice": "₹ 40.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      }
+    ],
+    " Breads and Buns ": [
+      {
+        "name": "Britannia 100% Whole Wheat Bread 400 g",
+        "brand": "",
+        "price": "₹ 37.20",
+        "oldPrice": "₹ 40.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Muffets & Tuffets Brown Bread 400 g",
+        "brand": "",
+        "price": "₹ 22.50",
+        "oldPrice": "₹ 45.00",
+        "sodexo": "Eligible",
+        "offer": "50%"
+      },
+      {
+        "name": "Muffets And Tuffets White Bread 400 g",
+        "brand": "",
+        "price": "₹ 20.00",
+        "oldPrice": "₹ 40.00",
+        "sodexo": "Eligible",
+        "offer": "50%"
+      },
+      {
+        "name": "Muffets & Tuffets Whole Wheat Bread 400 g",
+        "brand": "",
+        "price": "₹ 22.50",
+        "oldPrice": "₹ 45.00",
+        "sodexo": "Eligible",
+        "offer": "50%"
+      },
+      {
+        "name": "Muffets & Tuffets Multigrain Bread 400 g",
+        "brand": "",
+        "price": "₹ 25.00",
+        "oldPrice": "₹ 50.00",
+        "sodexo": "Eligible",
+        "offer": "50%"
+      },
+      {
+        "name": "Wibs Bread 400 g",
+        "brand": "",
+        "price": "₹ 26.04",
+        "oldPrice": "₹ 28.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Muffets & Tuffets Ladipav 180 g",
+        "brand": "",
+        "price": "₹ 15.00",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "Eligible",
+        "offer": "50%"
+      },
+      {
+        "name": "Maida Pizza Base Bread 250 g",
+        "brand": "",
+        "price": "₹ 27.90",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Muffets & Tuffets Pizza Base (2ea) 180 g",
+        "brand": "",
+        "price": "₹ 15.00",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "Eligible",
+        "offer": "50%"
+      },
+      {
+        "name": "Wibs Browny Whole Wheat Bread 400 g",
+        "brand": "",
+        "price": "₹ 37.20",
+        "oldPrice": "₹ 40.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Britannia Pav 200 g",
+        "brand": "",
+        "price": "₹ 18.60",
+        "oldPrice": "₹ 20.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Burger Bun With Sesame Seed 200 g",
+        "brand": "",
+        "price": "₹ 27.90",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Muffets & Tuffets Burger Bun 150 g",
+        "brand": "",
+        "price": "₹ 15.00",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "Eligible",
+        "offer": "50%"
+      },
+      {
+        "name": "Muffets & Tuffets Fruit Bun 150 g",
+        "brand": "",
+        "price": "₹ 15.00",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "Eligible",
+        "offer": "50%"
+      }
+    ]
+  },
+  "Staples": {
+    " Atta, Flours & Sooji ": [
+      {
+        "name": "Aashirvaad Whole Wheat Atta 10 kg",
+        "brand": "",
+        "price": "₹ 375.00",
+        "oldPrice": "₹ 450.00",
+        "sodexo": "Eligible",
+        "offer": "16%"
+      },
+      {
+        "name": "Aashirvaad Superior MP Whole Wheat Atta 5 kg",
+        "brand": "",
+        "price": "₹ 210.00",
+        "oldPrice": "₹ 245.00",
+        "sodexo": "Eligible",
+        "offer": "14%"
+      },
+      {
+        "name": "Chakki Atta 10 kg",
+        "brand": "",
+        "price": "₹ 275.00",
+        "oldPrice": "₹ 375.00",
+        "sodexo": "Eligible",
+        "offer": "26%"
+      },
+      {
+        "name": "Aashirvaad Select Sharbati Whole Wheat Atta 5 kg",
+        "brand": "",
+        "price": "₹ 259.00",
+        "oldPrice": "₹ 295.00",
+        "sodexo": "Eligible",
+        "offer": "12%"
+      },
+      {
+        "name": "Rawa 1 kg",
+        "brand": "",
+        "price": "₹ 41.50",
+        "oldPrice": "₹ 83.00",
+        "sodexo": "Eligible",
+        "offer": "50%"
+      },
+      {
+        "name": "Besan 500 g",
+        "brand": "",
+        "price": "₹ 40.00",
+        "oldPrice": "₹ 80.00",
+        "sodexo": "Eligible",
+        "offer": "50%"
+      },
+      {
+        "name": "Rawa 500 g",
+        "brand": "",
+        "price": "₹ 21.50",
+        "oldPrice": "₹ 43.00",
+        "sodexo": "Eligible",
+        "offer": "50%"
+      },
+      {
+        "name": "Maida 1 kg",
+        "brand": "",
+        "price": "₹ 41.50",
+        "oldPrice": "₹ 83.00",
+        "sodexo": "Eligible",
+        "offer": "50%"
+      },
+      {
+        "name": "Good Life MP Wheat Chakki Atta 10 kg",
+        "brand": "",
+        "price": "₹ 325.00",
+        "oldPrice": "₹ 400.00",
+        "sodexo": "Eligible",
+        "offer": "18%"
+      },
+      {
+        "name": "Maida 500 g",
+        "brand": "",
+        "price": "₹ 21.50",
+        "oldPrice": "₹ 43.00",
+        "sodexo": "Eligible",
+        "offer": "50%"
+      },
+      {
+        "name": "Madam Besan 500 g",
+        "brand": "",
+        "price": "₹ 51.00",
+        "oldPrice": "₹ 60.00",
+        "sodexo": "Eligible",
+        "offer": "15%"
+      },
+      {
+        "name": "Madam Rice Atta / Flour 500 g",
+        "brand": "",
+        "price": "₹ 29.75",
+        "oldPrice": "₹ 35.00",
+        "sodexo": "Eligible",
+        "offer": "15%"
+      },
+      {
+        "name": "Madam Jowar Millet Flour 500 g",
+        "brand": "",
+        "price": "₹ 30.60",
+        "oldPrice": "₹ 36.00",
+        "sodexo": "Eligible",
+        "offer": "15%"
+      },
+      {
+        "name": "Bhagirathi Thali Peeth Bhajni 200 g",
+        "brand": "",
+        "price": "₹ 37.20",
+        "oldPrice": "₹ 40.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Bhagirathi Rajgira Peeth / Atta 200 g",
+        "brand": "",
+        "price": "₹ 51.15",
+        "oldPrice": "₹ 55.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Bhagirathi Nachni Satva 200 g",
+        "brand": "",
+        "price": "₹ 37.20",
+        "oldPrice": "₹ 40.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      }
+    ],
+    " Dals & Pulses ": [
+      {
+        "name": "Loose Moong Dal 1 kg",
+        "brand": "",
+        "price": "₹ 97.00",
+        "oldPrice": "₹ 100.00",
+        "sodexo": "Eligible",
+        "offer": "3%"
+      },
+      {
+        "name": "Loose Chana Dal 1 kg",
+        "brand": "",
+        "price": "₹ 67.00",
+        "oldPrice": "₹ 70.00",
+        "sodexo": "Eligible",
+        "offer": "4%"
+      },
+      {
+        "name": "Tur / Arhar Dal 2 kg",
+        "brand": "",
+        "price": "₹ 190.00",
+        "oldPrice": "₹ 280.00",
+        "sodexo": "Eligible",
+        "offer": "32%"
+      },
+      {
+        "name": "Good Life Tur Dal 1 kg",
+        "brand": "",
+        "price": "₹ 117.00",
+        "oldPrice": "₹ 137.00",
+        "sodexo": "Eligible",
+        "offer": "14%"
+      },
+      {
+        "name": "Tata Sampann High Protein Unpolished Tur / Arhar Dal 1 kg",
+        "brand": "",
+        "price": "₹ 125.00",
+        "oldPrice": "₹ 149.00",
+        "sodexo": "Eligible",
+        "offer": "16%"
+      },
+      {
+        "name": "Moong Dal 2 kg",
+        "brand": "",
+        "price": "₹ 194.00",
+        "oldPrice": "₹ 320.00",
+        "sodexo": "Eligible",
+        "offer": "39%"
+      },
+      {
+        "name": "Good Life Rajma Chitra 500 g",
+        "brand": "",
+        "price": "₹ 75.00",
+        "oldPrice": "₹ 85.00",
+        "sodexo": "Eligible",
+        "offer": "11%"
+      },
+      {
+        "name": "Good Life Urad Dal Chilka 500 g",
+        "brand": "",
+        "price": "₹ 64.00",
+        "oldPrice": "₹ 79.00",
+        "sodexo": "Eligible",
+        "offer": "18%"
+      },
+      {
+        "name": "Good Life Masoor Dal 500 g",
+        "brand": "",
+        "price": "₹ 48.00",
+        "oldPrice": "₹ 62.00",
+        "sodexo": "Eligible",
+        "offer": "22%"
+      },
+      {
+        "name": "Good Life Chana Dal 500 g",
+        "brand": "",
+        "price": "₹ 37.00",
+        "oldPrice": "₹ 49.00",
+        "sodexo": "Eligible",
+        "offer": "24%"
+      },
+      {
+        "name": "Good Life Toor Dal 500 g",
+        "brand": "",
+        "price": "₹ 61.00",
+        "oldPrice": "₹ 70.00",
+        "sodexo": "Eligible",
+        "offer": "12%"
+      },
+      {
+        "name": "Good Life Rajma Red 500 g",
+        "brand": "",
+        "price": "₹ 63.00",
+        "oldPrice": "₹ 71.00",
+        "sodexo": "Eligible",
+        "offer": "11%"
+      },
+      {
+        "name": "Tata Sampann High Protein Unpolished Moong Dal 500 g",
+        "brand": "",
+        "price": "₹ 89.28",
+        "oldPrice": "₹ 96.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Good Life Urad Whole 500 g",
+        "brand": "",
+        "price": "₹ 65.00",
+        "oldPrice": "₹ 79.00",
+        "sodexo": "Eligible",
+        "offer": "17%"
+      },
+      {
+        "name": "Good Life Urad Washed Gota 500 g",
+        "brand": "",
+        "price": "₹ 66.00",
+        "oldPrice": "₹ 83.00",
+        "sodexo": "Eligible",
+        "offer": "20%"
+      },
+      {
+        "name": "Tata Sampann High Protein Unpolished Chana Dal 500 g",
+        "brand": "",
+        "price": "₹ 49.29",
+        "oldPrice": "₹ 53.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Best Farms Moth Beans 500 g",
+        "brand": "",
+        "price": "₹ 79.00",
+        "oldPrice": "₹ 92.00",
+        "sodexo": "Eligible",
+        "offer": "14%"
+      },
+      {
+        "name": "Good Life Roasted Chana Dal / Bengal Gram Split 200 g",
+        "brand": "",
+        "price": "₹ 23.00",
+        "oldPrice": "₹ 35.00",
+        "sodexo": "Eligible",
+        "offer": "34%"
+      },
+      {
+        "name": "Pick N Cook Whole Masoor 500 g",
+        "brand": "",
+        "price": "₹ 55.00",
+        "oldPrice": "₹ 62.00",
+        "sodexo": "Eligible",
+        "offer": "11%"
+      },
+      {
+        "name": "Pick N Cook Moong Chilka 500 g",
+        "brand": "",
+        "price": "₹ 75.00",
+        "oldPrice": "₹ 85.00",
+        "sodexo": "Eligible",
+        "offer": "11%"
+      },
+      {
+        "name": "Pick N Cook Small Chawli 500 g",
+        "brand": "",
+        "price": "₹ 105.00",
+        "oldPrice": "₹ 119.00",
+        "sodexo": "Eligible",
+        "offer": "11%"
+      },
+      {
+        "name": "Pick N Cook White Urad Gota 500 g",
+        "brand": "",
+        "price": "₹ 73.00",
+        "oldPrice": "₹ 84.00",
+        "sodexo": "Eligible",
+        "offer": "13%"
+      }
+    ],
+    " Rice & Rice Products ": [
+      {
+        "name": "Surti Kolam Rice 10 kg",
+        "brand": "",
+        "price": "₹ 539.00",
+        "oldPrice": "₹ 800.00",
+        "sodexo": "Eligible",
+        "offer": "32%"
+      },
+      {
+        "name": "HMT Kolam Rice 10 kg",
+        "brand": "",
+        "price": "₹ 419.00",
+        "oldPrice": "₹ 500.00",
+        "sodexo": "Eligible",
+        "offer": "16%"
+      },
+      {
+        "name": "Daawat Rozana Gold Basmati Rice 5 kg",
+        "brand": "",
+        "price": "₹ 359.00",
+        "oldPrice": "₹ 495.00",
+        "sodexo": "Eligible",
+        "offer": "27%"
+      },
+      {
+        "name": "Daawat Pulav Basmati Rice 1 kg",
+        "brand": "",
+        "price": "₹ 99.00",
+        "oldPrice": "₹ 120.00",
+        "sodexo": "Eligible",
+        "offer": "17%"
+      },
+      {
+        "name": "Daawat Rozana Super Basmati Rice 1 kg",
+        "brand": "",
+        "price": "₹ 62.00",
+        "oldPrice": "₹ 88.00",
+        "sodexo": "Eligible",
+        "offer": "29%"
+      },
+      {
+        "name": "Good Life Small Sabudana / Sago 500 g",
+        "brand": "",
+        "price": "₹ 49.00",
+        "oldPrice": "₹ 60.00",
+        "sodexo": "Eligible",
+        "offer": "18%"
+      },
+      {
+        "name": "Good Life Bhel Murmura 200 g",
+        "brand": "",
+        "price": "₹ 17.00",
+        "oldPrice": "₹ 20.00",
+        "sodexo": "Eligible",
+        "offer": "15%"
+      }
+    ],
+    " Edible Oils ": [
+      {
+        "name": "Fortune Sunlite Refined Sunflower Oil 1 L (Pouch)",
+        "brand": "",
+        "price": "₹ 127.00",
+        "oldPrice": "₹ 142.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Super Sarvottam Physicaly Refined 100% Rice Bran Oil 1 L (Pouch)",
+        "brand": "",
+        "price": "₹ 92.00",
+        "oldPrice": "₹ 149.00",
+        "sodexo": "Eligible",
+        "offer": "38%"
+      },
+      {
+        "name": "Saffola Active RiceBran Based Blended Oil 5 L (Can)",
+        "brand": "",
+        "price": "₹ 599.00",
+        "oldPrice": "₹ 680.00",
+        "sodexo": "Eligible",
+        "offer": "11%"
+      },
+      {
+        "name": "Sunrich Refined Sunflower Oil 1 L (Pouch)",
+        "brand": "",
+        "price": "₹ 117.00",
+        "oldPrice": "₹ 135.00",
+        "sodexo": "Eligible",
+        "offer": "13%"
+      },
+      {
+        "name": "Fortune Kachi Ghani Mustard Oil 1 L (Bottle)",
+        "brand": "",
+        "price": "₹ 157.00",
+        "oldPrice": "₹ 181.00",
+        "sodexo": "Eligible",
+        "offer": "13%"
+      },
+      {
+        "name": "Fortune Rice Bran Health Physically Refined Rice Bran Oil 5 L (Can)",
+        "brand": "",
+        "price": "₹ 599.00",
+        "oldPrice": "₹ 675.00",
+        "sodexo": "Eligible",
+        "offer": "11%"
+      },
+      {
+        "name": "Saffola Active Pro Weight Watchers RiceBran Based Blended Oil 1 L (Pouch)",
+        "brand": "",
+        "price": "₹ 109.00",
+        "oldPrice": "₹ 135.00",
+        "sodexo": "Eligible",
+        "offer": "19%"
+      },
+      {
+        "name": "Saffola Gold Pro Healthy Lifestyle RiceBran Based Blended Oil 1 L (Pouch)",
+        "brand": "",
+        "price": "₹ 129.00",
+        "oldPrice": "₹ 139.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Sunrich Refined Sunflower Oil 5 L (Can)",
+        "brand": "",
+        "price": "₹ 599.00",
+        "oldPrice": "₹ 725.00",
+        "sodexo": "Eligible",
+        "offer": "17%"
+      },
+      {
+        "name": "Riso Physically Refined Rice Bran Oil 5 L (Can)",
+        "brand": "",
+        "price": "₹ 725.00",
+        "oldPrice": "₹ 825.00",
+        "sodexo": "Eligible",
+        "offer": "12%"
+      }
+    ],
+    " Dry Fruits ": [
+      {
+        "name": "Good Life Almonds 500 g",
+        "brand": "",
+        "price": "₹ 349.00",
+        "oldPrice": "₹ 449.00",
+        "sodexo": "Eligible",
+        "offer": "22%"
+      },
+      {
+        "name": "Good Life (W320) Cashews 500 g",
+        "brand": "",
+        "price": "₹ 429.00",
+        "oldPrice": "₹ 499.00",
+        "sodexo": "Eligible",
+        "offer": "14%"
+      },
+      {
+        "name": "Good Life Mixed Dry Fruits 500 g",
+        "brand": "",
+        "price": "₹ 269.00",
+        "oldPrice": "₹ 349.00",
+        "sodexo": "Eligible",
+        "offer": "22%"
+      },
+      {
+        "name": "Good Life Almonds 200 g",
+        "brand": "",
+        "price": "₹ 155.00",
+        "oldPrice": "₹ 195.00",
+        "sodexo": "Eligible",
+        "offer": "20%"
+      },
+      {
+        "name": "Good Life Green Kishmish 500 g",
+        "brand": "",
+        "price": "₹ 145.00",
+        "oldPrice": "₹ 183.00",
+        "sodexo": "Eligible",
+        "offer": "20%"
+      },
+      {
+        "name": "Shree Value Pack Plain Kaju 200 g",
+        "brand": "",
+        "price": "₹ 199.00",
+        "oldPrice": "₹ 250.00",
+        "sodexo": "Eligible",
+        "offer": "20%"
+      }
+    ],
+    " Masalas & Spices ": [
+      {
+        "name": "Good Life Jeera 100 g",
+        "brand": "",
+        "price": "₹ 26.00",
+        "oldPrice": "₹ 60.00",
+        "sodexo": "Eligible",
+        "offer": "56%"
+      },
+      {
+        "name": "Good Life Jeera 200 g",
+        "brand": "",
+        "price": "₹ 52.00",
+        "oldPrice": "₹ 109.00",
+        "sodexo": "Eligible",
+        "offer": "52%"
+      },
+      {
+        "name": "Smith & Jones Ginger Garlic Paste 200 g",
+        "brand": "",
+        "price": "₹ 44.00",
+        "oldPrice": "₹ 48.00",
+        "sodexo": "Eligible",
+        "offer": "8%"
+      },
+      {
+        "name": "Everest Garam Masala 100 g",
+        "brand": "",
+        "price": "₹ 70.20",
+        "oldPrice": "₹ 78.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Good Life Turmeric Powder 100 g",
+        "brand": "",
+        "price": "₹ 16.00",
+        "oldPrice": "₹ 36.00",
+        "sodexo": "Eligible",
+        "offer": "55%"
+      },
+      {
+        "name": "Good Life Chilli Powder 100 g",
+        "brand": "",
+        "price": "₹ 26.00",
+        "oldPrice": "₹ 62.00",
+        "sodexo": "Eligible",
+        "offer": "58%"
+      },
+      {
+        "name": "Everest Tikhalal Chilli Powder 200 g",
+        "brand": "",
+        "price": "₹ 73.80",
+        "oldPrice": "₹ 82.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Everest Kashmirilal Chilli Powder 100 g",
+        "brand": "",
+        "price": "₹ 52.20",
+        "oldPrice": "₹ 58.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Good Life Big Mustard 100 g",
+        "brand": "",
+        "price": "₹ 13.00",
+        "oldPrice": "₹ 26.00",
+        "sodexo": "Eligible",
+        "offer": "50%"
+      },
+      {
+        "name": "Everest Shahi Biryani Masala 50 g",
+        "brand": "",
+        "price": "₹ 63.00",
+        "oldPrice": "₹ 70.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Everest Kitchen King Masala 100 g",
+        "brand": "",
+        "price": "₹ 55.80",
+        "oldPrice": "₹ 62.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Everest Chaat Masala 100 g",
+        "brand": "",
+        "price": "₹ 55.80",
+        "oldPrice": "₹ 62.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Good Life Coriander Powder 100 g",
+        "brand": "",
+        "price": "₹ 16.00",
+        "oldPrice": "₹ 36.00",
+        "sodexo": "Eligible",
+        "offer": "55%"
+      },
+      {
+        "name": "Everest Pav Bhaji Masala 100 g",
+        "brand": "",
+        "price": "₹ 59.40",
+        "oldPrice": "₹ 66.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Everest Sambhar Masala 100 g",
+        "brand": "",
+        "price": "₹ 56.70",
+        "oldPrice": "₹ 63.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Everest Turmeric Powder 200 g",
+        "brand": "",
+        "price": "₹ 50.40",
+        "oldPrice": "₹ 56.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Everest Chhole Masala 100 g",
+        "brand": "",
+        "price": "₹ 56.70",
+        "oldPrice": "₹ 63.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Everest Tikhalal Chilli Powder 100 g",
+        "brand": "",
+        "price": "₹ 34.20",
+        "oldPrice": "₹ 38.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Everest Turmeric Powder 100 g",
+        "brand": "",
+        "price": "₹ 25.20",
+        "oldPrice": "₹ 28.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Everest Tea Masala 50 g",
+        "brand": "",
+        "price": "₹ 49.50",
+        "oldPrice": "₹ 55.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Everest Coriander Powder 100 g",
+        "brand": "",
+        "price": "₹ 26.04",
+        "oldPrice": "₹ 28.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Shree Jeera 200 g",
+        "brand": "",
+        "price": "₹ 80.10",
+        "oldPrice": "₹ 89.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Vandevi Yellow Hing 50 g",
+        "brand": "",
+        "price": "₹ 60.45",
+        "oldPrice": "₹ 65.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Ching's Secret Chowmein Hakka Noodle Masala 100 g",
+        "brand": "",
+        "price": "₹ 46.00",
+        "oldPrice": "₹ 50.00",
+        "sodexo": "Eligible",
+        "offer": "8%"
+      },
+      {
+        "name": "Shree Shekeli Badishep 100 g",
+        "brand": "",
+        "price": "₹ 36.90",
+        "oldPrice": "₹ 41.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Shree Coriander Seeds 100 g",
+        "brand": "",
+        "price": "₹ 32.40",
+        "oldPrice": "₹ 36.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Suhana Meat/Mutton Masala 50 g",
+        "brand": "",
+        "price": "₹ 36.00",
+        "oldPrice": "₹ 40.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      }
+    ],
+    " Salt, Sugar & Jaggery ": [
+      {
+        "name": "Madhur Pure & Hygienic Sugar 5 kg",
+        "brand": "",
+        "price": "₹ 225.00",
+        "oldPrice": "₹ 270.00",
+        "sodexo": "Eligible",
+        "offer": "16%"
+      },
+      {
+        "name": "Good Life Pure Crystal Sugar 5 kg",
+        "brand": "",
+        "price": "₹ 210.00",
+        "oldPrice": "₹ 260.00",
+        "sodexo": "Eligible",
+        "offer": "19%"
+      },
+      {
+        "name": "Good Life Pure Crystal Sugar 2 kg",
+        "brand": "",
+        "price": "₹ 90.00",
+        "oldPrice": "₹ 104.00",
+        "sodexo": "Eligible",
+        "offer": "13%"
+      },
+      {
+        "name": "Good Life Pure Crystal Sugar 1 kg",
+        "brand": "",
+        "price": "₹ 39.00",
+        "oldPrice": "₹ 52.00",
+        "sodexo": "Eligible",
+        "offer": "25%"
+      },
+      {
+        "name": "Madhur Pure & Hygienic Sugar 1 kg",
+        "brand": "",
+        "price": "₹ 45.00",
+        "oldPrice": "₹ 55.00",
+        "sodexo": "Eligible",
+        "offer": "18%"
+      },
+      {
+        "name": "Trust Classic Sulphurless Sugar 1 kg",
+        "brand": "",
+        "price": "₹ 46.00",
+        "oldPrice": "₹ 65.00",
+        "sodexo": "Eligible",
+        "offer": "29%"
+      },
+      {
+        "name": "Tata Iodised Salt 1 kg",
+        "brand": "",
+        "price": "₹ 18.00",
+        "oldPrice": "₹ 20.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Aashirvaad Iodised Salt 1 kg",
+        "brand": "",
+        "price": "₹ 15.00",
+        "oldPrice": "₹ 20.00",
+        "sodexo": "Eligible",
+        "offer": "25%"
+      },
+      {
+        "name": "Good Life Free Flow Iodised Salt 1 kg",
+        "brand": "",
+        "price": "₹ 10.00",
+        "oldPrice": "₹ 20.00",
+        "sodexo": "Eligible",
+        "offer": "50%"
+      },
+      {
+        "name": "Parth Jaggery 450 g",
+        "brand": "",
+        "price": "₹ 39.00",
+        "oldPrice": "₹ 42.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      }
+    ],
+    " Soya Products, Wheat & Other Grains ": [
+      {
+        "name": "Nutrela Soya Wadi 200 g",
+        "brand": "",
+        "price": "₹ 41.85",
+        "oldPrice": "₹ 45.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      }
+    ]
+  },
+  "Snacks & Branded Foods": {
+    " Biscuits & Cookies ": [
+      {
+        "name": "Parle-G Gold Biscuits 1 kg",
+        "brand": "",
+        "price": "₹ 87.00",
+        "oldPrice": "₹ 115.00",
+        "sodexo": "Eligible",
+        "offer": "24%"
+      },
+      {
+        "name": "Britannia Good Day Cashew Cookies 600 g",
+        "brand": "",
+        "price": "₹ 85.00",
+        "oldPrice": "₹ 120.00",
+        "sodexo": "Eligible",
+        "offer": "29%"
+      },
+      {
+        "name": "Parle Platina Hide & Seek Chocolate Chip Cookies 350 g",
+        "brand": "",
+        "price": "₹ 72.00",
+        "oldPrice": "₹ 100.00",
+        "sodexo": "Eligible",
+        "offer": "28%"
+      },
+      {
+        "name": "Parle Krack Jack Biscuits 400 g",
+        "brand": "",
+        "price": "₹ 45.00",
+        "oldPrice": "₹ 60.00",
+        "sodexo": "Eligible",
+        "offer": "25%"
+      },
+      {
+        "name": "Parle-G Original Glucose Biscuits 800 g",
+        "brand": "",
+        "price": "₹ 63.00",
+        "oldPrice": "₹ 70.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Britannia Good Day Cashew Cookies 200 g",
+        "brand": "",
+        "price": "₹ 30.00",
+        "oldPrice": "₹ 35.00",
+        "sodexo": "Eligible",
+        "offer": "14%"
+      },
+      {
+        "name": "Parle Hide & Seek Chocolate Chip Cookies 100 g",
+        "brand": "",
+        "price": "₹ 24.00",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "Eligible",
+        "offer": "20%"
+      },
+      {
+        "name": "Britannia Vita Marie Gold Biscuits 300 g",
+        "brand": "",
+        "price": "₹ 35.00",
+        "oldPrice": "₹ 40.00",
+        "sodexo": "Eligible",
+        "offer": "12%"
+      },
+      {
+        "name": "Mcvitie`s Digestive Biscuits 400 g",
+        "brand": "",
+        "price": "₹ 49.00",
+        "oldPrice": "₹ 68.00",
+        "sodexo": "Eligible",
+        "offer": "27%"
+      },
+      {
+        "name": "Britannia Bourbon The Original Cream Biscuits 150 g",
+        "brand": "",
+        "price": "₹ 25.00",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "Eligible",
+        "offer": "16%"
+      },
+      {
+        "name": "Sunfeast Dark Fantasy Bourbon Biscuits 150 g",
+        "brand": "",
+        "price": "₹ 15.00",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "Eligible",
+        "offer": "50%"
+      },
+      {
+        "name": "Parle Krack Jack Biscuits 200 g",
+        "brand": "",
+        "price": "₹ 27.90",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Parle-G Original Glucose Biscuits 250 g",
+        "brand": "",
+        "price": "₹ 18.60",
+        "oldPrice": "₹ 20.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Britannia Good Day Cashew Cookies 53 g (Get +7 g Extra)",
+        "brand": "",
+        "price": "₹ 9.30",
+        "oldPrice": "₹ 10.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Parle Monaco Classic Cheeslings 150 g",
+        "brand": "",
+        "price": "₹ 55.80",
+        "oldPrice": "₹ 60.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Parle-G Biscuits 110 g (Get +20 g Extra)",
+        "brand": "",
+        "price": "₹ 9.30",
+        "oldPrice": "₹ 10.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Parle Platina Milano Choco Delight Centre Filled Dark Cookies 75 g",
+        "brand": "",
+        "price": "₹ 32.55",
+        "oldPrice": "₹ 35.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Dukes Bourbon Premium Sandwich Biscuits 150 g",
+        "brand": "",
+        "price": "₹ 20.00",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "Eligible",
+        "offer": "33%"
+      },
+      {
+        "name": "Sunfeast Farmlite Digestive All Good Biscuits 100 g (Pouch)",
+        "brand": "",
+        "price": "₹ 23.25",
+        "oldPrice": "₹ 25.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Parle-G Biscuits 55 g (Get +10 g Extra)",
+        "brand": "",
+        "price": "₹ 4.65",
+        "oldPrice": "₹ 5.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      }
+    ],
+    " Noodle, Pasta, Vermicelli ": [
+      {
+        "name": "Maggi 2-Minute Masala Instant Noodles 420 g",
+        "brand": "",
+        "price": "₹ 61.00",
+        "oldPrice": "₹ 68.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Maggi 2-Minute Masala Instant Noodles 560 g",
+        "brand": "",
+        "price": "₹ 81.00",
+        "oldPrice": "₹ 91.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Ching's Secret Manchurian Instant Noodles 240 g",
+        "brand": "",
+        "price": "₹ 49.00",
+        "oldPrice": "₹ 60.00",
+        "sodexo": "Eligible",
+        "offer": "18%"
+      },
+      {
+        "name": "Bambino Elbow Macaroni Pasta 400 g",
+        "brand": "",
+        "price": "₹ 46.50",
+        "oldPrice": "₹ 50.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      }
+    ],
+    " Breakfast Cereals ": [
+      {
+        "name": "Kellogg's Corn Flakes 1.2 kg",
+        "brand": "",
+        "price": "₹ 299.00",
+        "oldPrice": "₹ 425.00",
+        "sodexo": "Eligible",
+        "offer": "29%"
+      },
+      {
+        "name": "Bagrry's White Oats 1 kg",
+        "brand": "",
+        "price": "₹ 119.00",
+        "oldPrice": "₹ 190.00",
+        "sodexo": "Eligible",
+        "offer": "37%"
+      },
+      {
+        "name": "Bagrry's Fruit & Nut Crunchy Muesli With Cranberries 750 g",
+        "brand": "",
+        "price": "₹ 349.00",
+        "oldPrice": "₹ 499.00",
+        "sodexo": "Eligible",
+        "offer": "30%"
+      },
+      {
+        "name": "Bagrry's Crunchy Muesli With Almonds Raisins & Honey 750 g",
+        "brand": "",
+        "price": "₹ 229.00",
+        "oldPrice": "₹ 449.00",
+        "sodexo": "Eligible",
+        "offer": "48%"
+      },
+      {
+        "name": "Kellogg's Almonds & Cranberries Crunchy Granola 460 g",
+        "brand": "",
+        "price": "₹ 210.01",
+        "oldPrice": "₹ 315.00",
+        "sodexo": "Eligible",
+        "offer": "33%"
+      },
+      {
+        "name": "Saffola Veggie Twist Instant Masala Oats 38 g",
+        "brand": "",
+        "price": "₹ 13.95",
+        "oldPrice": "₹ 15.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      }
+    ],
+    " Snacks & Namkeen ": [
+      {
+        "name": "Act II Classic Salted Instant Popcorn 90 g",
+        "brand": "",
+        "price": "₹ 30.69",
+        "oldPrice": "₹ 33.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Act II Butter Delite Instant Popcorn 70 g",
+        "brand": "",
+        "price": "₹ 27.90",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Garden Mumbai Special Diet Bhel 150 g",
+        "brand": "",
+        "price": "₹ 43.20",
+        "oldPrice": "₹ 48.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Garden Maharashtra Special Diet Chivda 150 g",
+        "brand": "",
+        "price": "₹ 45.00",
+        "oldPrice": "₹ 50.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      }
+    ],
+    " Chocolates & Candies ": [
+      {
+        "name": "Cadbury Dairy Milk Chocolate Bar 50 g",
+        "brand": "",
+        "price": "₹ 37.20",
+        "oldPrice": "₹ 40.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Cadbury Dairy Milk Fruit & Nut Chocolate Bar 36 g",
+        "brand": "",
+        "price": "₹ 41.85",
+        "oldPrice": "₹ 45.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Cadbury Dairy Milk Roast Almond Chocolate 36 g",
+        "brand": "",
+        "price": "₹ 41.85",
+        "oldPrice": "₹ 45.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Snickers Chocolate Miniatures 150 g",
+        "brand": "",
+        "price": "₹ 138.57",
+        "oldPrice": "₹ 149.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Cadbury Gold Choclairs 632.5 g",
+        "brand": "",
+        "price": "₹ 180.00",
+        "oldPrice": "₹ 200.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Cadbury Fuse Chocolate Bar 25 g + 2.5 g",
+        "brand": "",
+        "price": "₹ 18.60",
+        "oldPrice": "₹ 20.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      }
+    ],
+    " Ready To Cook & Eat ": [
+      {
+        "name": "MTR Instant Gulab Jamun Mix 175 g",
+        "brand": "",
+        "price": "₹ 65.00",
+        "oldPrice": "₹ 130.00",
+        "sodexo": "Eligible",
+        "offer": "50%"
+      },
+      {
+        "name": "MTR Instant Rice Idli Mix 500 g",
+        "brand": "",
+        "price": "₹ 105.00",
+        "oldPrice": "₹ 120.00",
+        "sodexo": "Eligible",
+        "offer": "12%"
+      },
+      {
+        "name": "MTR Instant Rava Dosa Mix 500 g",
+        "brand": "",
+        "price": "₹ 105.00",
+        "oldPrice": "₹ 120.00",
+        "sodexo": "Eligible",
+        "offer": "12%"
+      },
+      {
+        "name": "Ching's Secret Hot & Sour Vegetable Soup 55 g",
+        "brand": "",
+        "price": "₹ 46.00",
+        "oldPrice": "₹ 55.00",
+        "sodexo": "Eligible",
+        "offer": "16%"
+      },
+      {
+        "name": "Weikfield Vanilla Custard Powder 100 g",
+        "brand": "",
+        "price": "₹ 34.41",
+        "oldPrice": "₹ 37.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Weikfield Cornflour 100 g",
+        "brand": "",
+        "price": "₹ 25.11",
+        "oldPrice": "₹ 27.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      }
+    ],
+    " Spreads, Sauces, Ketchup ": [
+      {
+        "name": "Del Monte Tomato Ketchup 950 g",
+        "brand": "",
+        "price": "₹ 89.00",
+        "oldPrice": "₹ 130.00",
+        "sodexo": "Eligible",
+        "offer": "31%"
+      },
+      {
+        "name": "Saffola Honey 1 kg",
+        "brand": "",
+        "price": "₹ 249.00",
+        "oldPrice": "₹ 430.00",
+        "sodexo": "Eligible",
+        "offer": "42%"
+      },
+      {
+        "name": "Patanjali Pure Honey 500 g",
+        "brand": "",
+        "price": "₹ 145.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Snactac Tomato Ketchup 950 g (Pouch)",
+        "brand": "",
+        "price": "₹ 89.00",
+        "oldPrice": "₹ 123.00",
+        "sodexo": "Eligible",
+        "offer": "27%"
+      },
+      {
+        "name": "Hershey's Cocoa Spread With Almond 350 g",
+        "brand": "",
+        "price": "₹ 200.00",
+        "oldPrice": "₹ 295.00",
+        "sodexo": "Eligible",
+        "offer": "32%"
+      },
+      {
+        "name": "Sundrop Crunchy Peanut Butter 924 g",
+        "brand": "",
+        "price": "₹ 270.00",
+        "oldPrice": "₹ 300.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Hershey's Cocoa Spread 350 g",
+        "brand": "",
+        "price": "₹ 200.00",
+        "oldPrice": "₹ 295.00",
+        "sodexo": "Eligible",
+        "offer": "32%"
+      },
+      {
+        "name": "Ching's Secret Dark Soy Sauce 210 g",
+        "brand": "",
+        "price": "₹ 51.15",
+        "oldPrice": "₹ 55.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Dabur Hommade Tomato Puree 200 g",
+        "brand": "",
+        "price": "₹ 23.25",
+        "oldPrice": "₹ 25.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      }
+    ]
+  },
+  "Beverages": {
+    " Tea ": [
+      {
+        "name": "Red Label Leaf Tea 1 kg",
+        "brand": "",
+        "price": "₹ 385.00",
+        "oldPrice": "₹ 470.00",
+        "sodexo": "Eligible",
+        "offer": "18%"
+      },
+      {
+        "name": "Tata Premium Tea 1 kg",
+        "brand": "",
+        "price": "₹ 429.00",
+        "oldPrice": "₹ 520.00",
+        "sodexo": "Eligible",
+        "offer": "17%"
+      },
+      {
+        "name": "Taj Mahal Leaf Tea 1 kg",
+        "brand": "",
+        "price": "₹ 542.00",
+        "oldPrice": "₹ 630.00",
+        "sodexo": "Eligible",
+        "offer": "13%"
+      },
+      {
+        "name": "Society Tea 1 kg",
+        "brand": "",
+        "price": "₹ 430.00",
+        "oldPrice": "₹ 500.00",
+        "sodexo": "Eligible",
+        "offer": "14%"
+      },
+      {
+        "name": "Taj Mahal Tea 250 g (Carton)",
+        "brand": "",
+        "price": "₹ 148.80",
+        "oldPrice": "₹ 160.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Tata Gold Tea 250 g",
+        "brand": "",
+        "price": "₹ 111.60",
+        "oldPrice": "₹ 120.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Society Tea 500 g",
+        "brand": "",
+        "price": "₹ 241.80",
+        "oldPrice": "₹ 260.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Tata Premium Tea 500 g",
+        "brand": "",
+        "price": "₹ 213.90",
+        "oldPrice": "₹ 230.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Aarambh Danedar Assam Tea 1 kg",
+        "brand": "",
+        "price": "₹ 325.00",
+        "oldPrice": "₹ 415.00",
+        "sodexo": "Eligible",
+        "offer": "21%"
+      },
+      {
+        "name": "Marvel Yellow Tea 1 kg",
+        "brand": "",
+        "price": "₹ 342.00",
+        "oldPrice": "₹ 440.00",
+        "sodexo": "Eligible",
+        "offer": "22%"
+      },
+      {
+        "name": "Tetley Lemon & Honey Green Tea Bags 30 pcs (Carton)",
+        "brand": "",
+        "price": "₹ 145.00",
+        "oldPrice": "₹ 160.00",
+        "sodexo": "Eligible",
+        "offer": "9%"
+      }
+    ],
+    " Coffee ": [
+      {
+        "name": "Kaffe Pure Instant Coffee 50 g (Buy 1 Get 1)",
+        "brand": "",
+        "price": "₹ 130.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Kaffe Blended Instant Coffee 50 g (Buy 1 Get 1)",
+        "brand": "",
+        "price": "₹ 85.00",
+        "oldPrice": "NaN",
+        "sodexo": "Eligible",
+        "offer": "NaN"
+      },
+      {
+        "name": "Tata Grand Instant Coffee Powder 50 g",
+        "brand": "",
+        "price": "₹ 134.85",
+        "oldPrice": "₹ 145.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      }
+    ],
+    " Fruit juices ": [
+      {
+        "name": "Maaza Mango Drink 1.2 L (Bottle)",
+        "brand": "",
+        "price": "₹ 55.00",
+        "oldPrice": "₹ 70.00",
+        "sodexo": "Eligible",
+        "offer": "21%"
+      },
+      {
+        "name": "Real Fruit Power Litchi Nectar 1 L",
+        "brand": "",
+        "price": "₹ 80.00",
+        "oldPrice": "₹ 105.00",
+        "sodexo": "Eligible",
+        "offer": "23%"
+      },
+      {
+        "name": "Real Activ 100% Apple Juice 1 L",
+        "brand": "",
+        "price": "₹ 110.00",
+        "oldPrice": "₹ 130.00",
+        "sodexo": "Eligible",
+        "offer": "15%"
+      }
+    ],
+    " Energy & Soft Drinks ": [
+      {
+        "name": "Monster Energy Drink 350 ml (Can)",
+        "brand": "",
+        "price": "₹ 73.34",
+        "oldPrice": "₹ 110.00",
+        "sodexo": "Eligible",
+        "offer": "33%"
+      },
+      {
+        "name": "Coca Cola 600 ml",
+        "brand": "",
+        "price": "₹ 30.00",
+        "oldPrice": "₹ 40.00",
+        "sodexo": "Eligible",
+        "offer": "25%"
+      },
+      {
+        "name": "Kingfisher Radler Lime 300 ml (Can)",
+        "brand": "",
+        "price": "₹ 30.00",
+        "oldPrice": "₹ 45.00",
+        "sodexo": "Eligible",
+        "offer": "33%"
+      },
+      {
+        "name": "Kingfisher Ginger & Lime Radler 300 ml (Can)",
+        "brand": "",
+        "price": "₹ 30.00",
+        "oldPrice": "₹ 45.00",
+        "sodexo": "Eligible",
+        "offer": "33%"
+      }
+    ],
+    " Health Drink & Supplement ": [
+      {
+        "name": "Bournvita 750 g",
+        "brand": "",
+        "price": "₹ 247.00",
+        "oldPrice": "₹ 302.00",
+        "sodexo": "Eligible",
+        "offer": "18%"
+      },
+      {
+        "name": "Bournvita 1 kg",
+        "brand": "",
+        "price": "₹ 365.00",
+        "oldPrice": "₹ 410.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "Bournvita 500 g (Pouch)",
+        "brand": "",
+        "price": "₹ 188.10",
+        "oldPrice": "₹ 209.00",
+        "sodexo": "Eligible",
+        "offer": "10%"
+      },
+      {
+        "name": "PediaSure Chocolate Health Drink Powder 400 g",
+        "brand": "",
+        "price": "₹ 506.85",
+        "oldPrice": "₹ 545.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Bournvita 200 g",
+        "brand": "",
+        "price": "₹ 102.30",
+        "oldPrice": "₹ 110.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Bournvita Five Star Magic Chocolate 750 g",
+        "brand": "",
+        "price": "₹ 302.25",
+        "oldPrice": "₹ 325.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Women's Horlicks Chocolate 400 g",
+        "brand": "",
+        "price": "₹ 278.07",
+        "oldPrice": "₹ 299.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "PediaSure Vanilla Delight Health Drink Powder 400 g",
+        "brand": "",
+        "price": "₹ 506.85",
+        "oldPrice": "₹ 545.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Ensure Vanilla Health Drink Powder 400 g",
+        "brand": "",
+        "price": "₹ 511.50",
+        "oldPrice": "₹ 550.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Protinex Vanilla Delight 400 g",
+        "brand": "",
+        "price": "₹ 500.00",
+        "oldPrice": "₹ 550.00",
+        "sodexo": "Eligible",
+        "offer": "9%"
+      },
+      {
+        "name": "Ensure Vanilla Health Drink Powder 200 g",
+        "brand": "",
+        "price": "₹ 274.35",
+        "oldPrice": "₹ 295.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Protinex Tasty Chocolate 250 g",
+        "brand": "",
+        "price": "₹ 325.50",
+        "oldPrice": "₹ 350.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      },
+      {
+        "name": "Pedia Sure Vanilla Delight Health Drink Powder 200 g",
+        "brand": "",
+        "price": "₹ 274.35",
+        "oldPrice": "₹ 295.00",
+        "sodexo": "Eligible",
+        "offer": "7%"
+      }
+    ]
+  },
+  "Personal Care": {
+    " Hair Care ": [
+      {
+        "name": "Dove Nutritive Solutions Intense Repair Shampoo for Damaged Hair 650 ml",
+        "brand": "",
+        "price": "₹ 333.35",
+        "oldPrice": "₹ 500.00",
+        "sodexo": "NaN",
+        "offer": "33%"
+      },
+      {
+        "name": "Head & Shoulders Smooth & Silky Anti-Dandruff Shampoo 650 ml",
+        "brand": "",
+        "price": "₹ 385.00",
+        "oldPrice": "₹ 600.00",
+        "sodexo": "NaN",
+        "offer": "35%"
+      },
+      {
+        "name": "Head & Shoulders Anti-Hairfall Anti-Dandruff Shampoo 650 ml",
+        "brand": "",
+        "price": "₹ 396.55",
+        "oldPrice": "₹ 600.00",
+        "sodexo": "NaN",
+        "offer": "33%"
+      },
+      {
+        "name": "Head & Shoulders Cool Menthol Anti-Dandruff Shampoo 675 ml",
+        "brand": "",
+        "price": "₹ 400.00",
+        "oldPrice": "₹ 600.00",
+        "sodexo": "NaN",
+        "offer": "33%"
+      },
+      {
+        "name": "Pantene Pro-V Advanced Hair Fall Control Shampoo 650 ml",
+        "brand": "",
+        "price": "₹ 350.00",
+        "oldPrice": "₹ 550.00",
+        "sodexo": "NaN",
+        "offer": "36%"
+      },
+      {
+        "name": "L'Oreal Paris Total Repair 5 Advanced Repairing Shampoo 640 ml (With Extra 10%)",
+        "brand": "",
+        "price": "₹ 405.00",
+        "oldPrice": "₹ 450.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Parachute 100% Pure Coconut Oil 250 ml",
+        "brand": "",
+        "price": "₹ 93.00",
+        "oldPrice": "₹ 100.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Bajaj Almond Drops Non Sticky Hair Oil 500 ml",
+        "brand": "",
+        "price": "₹ 250.00",
+        "oldPrice": "₹ 280.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Get Real Coconut Oil 500 ml",
+        "brand": "",
+        "price": "₹ 110.00",
+        "oldPrice": "₹ 220.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Garnier Color Naturals Creme Riche Ammonia Free Hair Color, Natural Black (1) (70 ml + 60 g)",
+        "brand": "",
+        "price": "₹ 153.00",
+        "oldPrice": "₹ 180.00",
+        "sodexo": "NaN",
+        "offer": "15%"
+      },
+      {
+        "name": "Parachute Advansed Aloe Vera Enriched Coconut Hair Oil 250 ml",
+        "brand": "",
+        "price": "₹ 111.60",
+        "oldPrice": "₹ 120.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Parachute 100% Pure Coconut Oil 100 ml",
+        "brand": "",
+        "price": "₹ 36.27",
+        "oldPrice": "₹ 39.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Dove Hair Therapy Hair Fall Rescue Shampoo 340 ml",
+        "brand": "",
+        "price": "₹ 213.90",
+        "oldPrice": "₹ 230.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Parachute Advansed Coconut Hair Oil 300 ml",
+        "brand": "",
+        "price": "₹ 114.30",
+        "oldPrice": "₹ 127.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Bajaj Almond Drops Non Sticky Hair Oil 300 ml",
+        "brand": "",
+        "price": "₹ 155.00",
+        "oldPrice": "₹ 175.00",
+        "sodexo": "NaN",
+        "offer": "11%"
+      },
+      {
+        "name": "L'Oreal Paris Casting Creme Gloss Ammonia Free Hair Colour, Darkest Brown (300), (87.5 g + 72 ml)",
+        "brand": "",
+        "price": "₹ 495.00",
+        "oldPrice": "₹ 550.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Head & Shoulders Cool Menthol Anti-Dandruff Shampoo 180 ml",
+        "brand": "",
+        "price": "₹ 134.85",
+        "oldPrice": "₹ 145.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Parachute Advansed Aloe Vera Enriched Coconut Hair Oil 150 ml",
+        "brand": "",
+        "price": "₹ 69.75",
+        "oldPrice": "₹ 75.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Head & Shoulders Anti-Hairfall Anti-Dandruff Shampoo 180 ml",
+        "brand": "",
+        "price": "₹ 134.85",
+        "oldPrice": "₹ 145.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "L'Oreal Paris Total Repair 5 Advanced Repairing Shampoo 360 ml (With Extra 10%)",
+        "brand": "",
+        "price": "₹ 215.00",
+        "oldPrice": "₹ 265.00",
+        "sodexo": "NaN",
+        "offer": "18%"
+      },
+      {
+        "name": "Dabur Almond Damage Free Hair Oil 100 ml",
+        "brand": "",
+        "price": "₹ 60.45",
+        "oldPrice": "₹ 65.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Head & Shoulders Anti-Hairfall Anti-Dandruff Shampoo 340 ml",
+        "brand": "",
+        "price": "₹ 255.75",
+        "oldPrice": "₹ 275.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Godrej Expert Rich Creme Ammonia Free Hair Colour, Natural Black (20 g + 20 ml)",
+        "brand": "",
+        "price": "₹ 27.90",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "L'Oreal Paris Casting Creme Gloss Ammonia Free Hair Colour, Ebony Black (200), (87.5 g + 72 ml)",
+        "brand": "",
+        "price": "₹ 495.00",
+        "oldPrice": "₹ 550.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Indica Easy Shampoo Based Ammonia Free Hair Colour, Natural Black (1) 25 ml",
+        "brand": "",
+        "price": "₹ 37.20",
+        "oldPrice": "₹ 40.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Parachute Advansed Jasmine Coconut Non-Sticky Hair Oil 300 ml",
+        "brand": "",
+        "price": "₹ 106.20",
+        "oldPrice": "₹ 118.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Livon Damage Protection Vitamin E Hair Serum 100 ml",
+        "brand": "",
+        "price": "₹ 232.50",
+        "oldPrice": "₹ 250.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Garnier Black Naturals Oil Enriched Ammonia Free Hair Colour, Brown Black (20 g + 20 ml)",
+        "brand": "",
+        "price": "₹ 34.41",
+        "oldPrice": "₹ 37.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Himalaya Butea Frondosa & Bhringaraja Anti-Hair Fall Shampoo 200 ml",
+        "brand": "",
+        "price": "₹ 115.00",
+        "oldPrice": "₹ 130.00",
+        "sodexo": "NaN",
+        "offer": "11%"
+      },
+      {
+        "name": "Hair & Care Moisturising Fruit Oils With Green Apple, Olive & Mosambi Hair Oil 300 ml",
+        "brand": "",
+        "price": "₹ 144.15",
+        "oldPrice": "₹ 155.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Pantene Pro-V Advanced Hair Fall Control Shampoo 340 ml",
+        "brand": "",
+        "price": "₹ 209.25",
+        "oldPrice": "₹ 225.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Himalaya Tea Tree Oil and Aloe Vera Anti-Dandruff Shampoo 200 ml",
+        "brand": "",
+        "price": "₹ 120.00",
+        "oldPrice": "₹ 140.00",
+        "sodexo": "NaN",
+        "offer": "14%"
+      },
+      {
+        "name": "Patanjali Kesh Kanti Natural Hair Shampoo 200 ml",
+        "brand": "",
+        "price": "₹ 75.00",
+        "oldPrice": "NaN",
+        "sodexo": "NaN",
+        "offer": "NaN"
+      },
+      {
+        "name": "Dabur Amla Hair Oil 275 ml",
+        "brand": "",
+        "price": "₹ 124.62",
+        "oldPrice": "₹ 134.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Bajaj Almond Drops Non Sticky Hair Oil 200 ml",
+        "brand": "",
+        "price": "₹ 116.25",
+        "oldPrice": "₹ 125.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "L'Oreal Paris Total Repair 5 Advanced Repairing Shampoo 175 ml (With Extra 10%)",
+        "brand": "",
+        "price": "₹ 125.55",
+        "oldPrice": "₹ 135.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Livon Damage Protection Vitamin E Hair Serum 50 ml",
+        "brand": "",
+        "price": "₹ 139.50",
+        "oldPrice": "₹ 150.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "L'Oreal Paris Fall Resist 3X Repair Anti-Hairfall Shampoo 175 ml (With Extra 10%)",
+        "brand": "",
+        "price": "₹ 125.55",
+        "oldPrice": "₹ 135.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Garnier Color Naturals Creme Riche Ammonia Free Hair Color, Burgundy (3.16) 70 ml + 60 g",
+        "brand": "",
+        "price": "₹ 167.40",
+        "oldPrice": "₹ 180.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Parachute Advansed Jasmine Non-Sticky Coconut Hair Oil 190 ml (Free 45 ml)",
+        "brand": "",
+        "price": "₹ 67.00",
+        "oldPrice": "₹ 75.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "L'Oreal Paris Color Protect Shampoo 396 ml (With Extra 10%)",
+        "brand": "",
+        "price": "₹ 232.00",
+        "oldPrice": "₹ 282.00",
+        "sodexo": "NaN",
+        "offer": "17%"
+      },
+      {
+        "name": "Hair & Care Moisturising Fruit Oils With Olive, Mosambi & Green Apple Hair Oil 200 ml",
+        "brand": "",
+        "price": "₹ 106.95",
+        "oldPrice": "₹ 115.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Godrej Expert Rich CrÃ¨me Ammonia Free Hair Colour, Dark Brown (20 g + 20 ml)",
+        "brand": "",
+        "price": "₹ 27.90",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Garnier Color Naturals Creme Riche Ammonia Free Men Hair Color, Natural Black (1) (30 ml + 30 g )",
+        "brand": "",
+        "price": "₹ 106.95",
+        "oldPrice": "₹ 115.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Pantene Pro-V Advanced Hair Fall Solution Silky Smooth Care Shampoo 340 ml",
+        "brand": "",
+        "price": "₹ 204.60",
+        "oldPrice": "₹ 220.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Himalaya Gentle Daily Care Protein Licorise & Amla Shampoo 200 ml",
+        "brand": "",
+        "price": "₹ 115.00",
+        "oldPrice": "₹ 130.00",
+        "sodexo": "NaN",
+        "offer": "11%"
+      },
+      {
+        "name": "Indica Easy Shampoo Based Ammonia Free Hair Colour, Dark Brown (3) 25 ml",
+        "brand": "",
+        "price": "₹ 37.20",
+        "oldPrice": "₹ 40.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Godrej Expert Rich CrÃ¨me Ammonia Free Hair Colour, Natural Brown (20 g + 20 ml)",
+        "brand": "",
+        "price": "₹ 27.90",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Godrej Nupur Henna Mehendi 50 g",
+        "brand": "",
+        "price": "₹ 32.55",
+        "oldPrice": "₹ 35.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Parachute Men Advansed Lemon & Neem Anti-Dandruff Aftershower Hair Cream 100 g",
+        "brand": "",
+        "price": "₹ 49.00",
+        "oldPrice": "₹ 89.00",
+        "sodexo": "NaN",
+        "offer": "44%"
+      },
+      {
+        "name": "Godrej Expert Rich Creme Ammonia Free Hair Colour, Natural Black (50 g + 50 ml)",
+        "brand": "",
+        "price": "₹ 92.07",
+        "oldPrice": "₹ 99.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "L'Oreal Paris Colour Protect Shampoo 175 ml (With Extra 10%)",
+        "brand": "",
+        "price": "₹ 139.50",
+        "oldPrice": "₹ 150.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Parachute Advansed Jasmine Coconut Non-Sticky Hair Oil 90 ml",
+        "brand": "",
+        "price": "₹ 35.34",
+        "oldPrice": "₹ 38.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Head & Shoulders Anti-Hairfall Anti-Dandruff Shampoo 72 ml",
+        "brand": "",
+        "price": "₹ 63.24",
+        "oldPrice": "₹ 68.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Nihar Naturals Shanti Amla Badam Hair Oil 200 ml",
+        "brand": "",
+        "price": "₹ 51.15",
+        "oldPrice": "₹ 55.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Set Wet Pro Vitamin B5 Cool Hold Styling Hair Gel 100 ml",
+        "brand": "",
+        "price": "₹ 93.00",
+        "oldPrice": "₹ 100.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "L'Oreal Paris Total Repair 5 Advanced Repairing Shampoo 75 ml (With Extra 10%)",
+        "brand": "",
+        "price": "₹ 55.80",
+        "oldPrice": "₹ 60.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      }
+    ],
+    " Oral Care ": [
+      {
+        "name": "Colgate Visible White Dazzling White Toothpaste 100 g",
+        "brand": "",
+        "price": "₹ 66.00",
+        "oldPrice": "₹ 99.00",
+        "sodexo": "NaN",
+        "offer": "33%"
+      },
+      {
+        "name": "Colgate Swarna Vedshakti Toothpaste 400 g",
+        "brand": "",
+        "price": "₹ 99.00",
+        "oldPrice": "₹ 170.00",
+        "sodexo": "NaN",
+        "offer": "41%"
+      },
+      {
+        "name": "Sensodyne Repair & Protect Toothpaste 70 g",
+        "brand": "",
+        "price": "₹ 162.75",
+        "oldPrice": "₹ 175.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Sensodyne Sensitive Fresh Mint Toothpaste 150 g",
+        "brand": "",
+        "price": "₹ 176.70",
+        "oldPrice": "₹ 190.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Colgate Strong Teeth Dental Cream Toothpaste (200 g + 100 g)",
+        "brand": "",
+        "price": "₹ 132.30",
+        "oldPrice": "₹ 147.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Patanjali Dant Kanti Dental Cream 200 g",
+        "brand": "",
+        "price": "₹ 85.00",
+        "oldPrice": "NaN",
+        "sodexo": "NaN",
+        "offer": "NaN"
+      },
+      {
+        "name": "Listerine Cool Mint Mouthwash 500 ml",
+        "brand": "",
+        "price": "₹ 238.50",
+        "oldPrice": "₹ 265.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Colgate Max Fresh Spicy Fresh Red Gel Anticavity Toothpaste 150 g",
+        "brand": "",
+        "price": "₹ 85.56",
+        "oldPrice": "₹ 92.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Colgate Strong Teeth Dental Cream Toothpaste 100 g",
+        "brand": "",
+        "price": "₹ 46.50",
+        "oldPrice": "₹ 50.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Colgate Slim Soft Charcoal (Soft) Toothbrush (Buy 2 Get 1 Free)",
+        "brand": "",
+        "price": "₹ 139.50",
+        "oldPrice": "₹ 150.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Listerine Cool Mint Mouthwash 250 ml",
+        "brand": "",
+        "price": "₹ 130.20",
+        "oldPrice": "₹ 140.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Colgate Active Salt Toothpaste 100 g",
+        "brand": "",
+        "price": "₹ 48.36",
+        "oldPrice": "₹ 52.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Colgate Max Fresh Peppermint Ice Blue Gel Toothpaste 150 g",
+        "brand": "",
+        "price": "₹ 85.56",
+        "oldPrice": "₹ 92.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Colgate Strong Teeth Dental Cream Toothpaste 48 g",
+        "brand": "",
+        "price": "₹ 18.60",
+        "oldPrice": "₹ 20.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Colgate Barbie Strawberry Flavor Kids Toothpaste 80 g (6+ Years)",
+        "brand": "",
+        "price": "₹ 83.70",
+        "oldPrice": "₹ 90.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Colgate Batman Bubble Fruit Flavor Kids Toothpaste 80 g (6+ Years)",
+        "brand": "",
+        "price": "₹ 79.98",
+        "oldPrice": "₹ 86.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Colgate Swarna Vedshakti Toothpaste 100 g",
+        "brand": "",
+        "price": "₹ 48.36",
+        "oldPrice": "₹ 52.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Himalaya Sparkling White Gel Toothpaste 80 g",
+        "brand": "",
+        "price": "₹ 55.80",
+        "oldPrice": "₹ 60.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Listerine Cavity Fighter Mouthwash 80 ml",
+        "brand": "",
+        "price": "₹ 55.80",
+        "oldPrice": "₹ 60.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Calcident Total Care Fluoridated Toothpaste 75 g",
+        "brand": "",
+        "price": "₹ 57.00",
+        "oldPrice": "NaN",
+        "sodexo": "NaN",
+        "offer": "NaN"
+      }
+    ],
+    " Skin Care ": [
+      {
+        "name": "Patanjali Saundarya Aloe Vera Gel 150 ml",
+        "brand": "",
+        "price": "₹ 90.00",
+        "oldPrice": "NaN",
+        "sodexo": "NaN",
+        "offer": "NaN"
+      },
+      {
+        "name": "Clean & Clear Foaming Face Wash 150 ml",
+        "brand": "",
+        "price": "₹ 145.00",
+        "oldPrice": "₹ 165.00",
+        "sodexo": "NaN",
+        "offer": "12%"
+      },
+      {
+        "name": "Himalaya Purifying Neem Face Wash 150 ml",
+        "brand": "",
+        "price": "₹ 139.50",
+        "oldPrice": "₹ 155.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Himalaya Purifying Neem Face Wash 100 ml",
+        "brand": "",
+        "price": "₹ 105.00",
+        "oldPrice": "₹ 120.00",
+        "sodexo": "NaN",
+        "offer": "12%"
+      },
+      {
+        "name": "Pond's Pure White Anti Pollution + Purity Face Wash with Activated Charcoal 100 g",
+        "brand": "",
+        "price": "₹ 155.00",
+        "oldPrice": "₹ 190.00",
+        "sodexo": "NaN",
+        "offer": "18%"
+      },
+      {
+        "name": "Clean & Clear Foaming Face Wash 100 ml",
+        "brand": "",
+        "price": "₹ 117.00",
+        "oldPrice": "₹ 130.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Garnier Men PowerWhite Anti Pollution Double Action Face Wash 100 g",
+        "brand": "",
+        "price": "₹ 165.00",
+        "oldPrice": "₹ 180.00",
+        "sodexo": "NaN",
+        "offer": "8%"
+      },
+      {
+        "name": "Nivea Men All In 1 10X Vitamin C Effect Face Wash 100 g",
+        "brand": "",
+        "price": "₹ 199.00",
+        "oldPrice": "₹ 250.00",
+        "sodexo": "NaN",
+        "offer": "20%"
+      },
+      {
+        "name": "Pond's White Beauty Spot-Less Fairness Face Wash with Micro Foam 100 g",
+        "brand": "",
+        "price": "₹ 124.00",
+        "oldPrice": "₹ 149.00",
+        "sodexo": "NaN",
+        "offer": "16%"
+      },
+      {
+        "name": "Dabur Gulabari Premium Rose Water 120 ml",
+        "brand": "",
+        "price": "₹ 40.50",
+        "oldPrice": "₹ 45.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Himalaya Purifying Neem Face Wash 50 ml",
+        "brand": "",
+        "price": "₹ 60.45",
+        "oldPrice": "₹ 65.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Nivea Soft Vitamin E Light Moisturiser 100 ml",
+        "brand": "",
+        "price": "₹ 148.80",
+        "oldPrice": "₹ 160.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Mirabelle Charcoal Premium Facial Sheet Mask",
+        "brand": "",
+        "price": "₹ 74.50",
+        "oldPrice": "₹ 149.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Clean & Clear Morning Energy Energizing Lemon Face Wash 100 ml",
+        "brand": "",
+        "price": "₹ 134.85",
+        "oldPrice": "₹ 145.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Everyuth Walnut Exfoliating Scrub 100 g",
+        "brand": "",
+        "price": "₹ 130.00",
+        "oldPrice": "NaN",
+        "sodexo": "NaN",
+        "offer": "NaN"
+      },
+      {
+        "name": "Garnier Men Oil Clear Deep Cleansing Clay D-Tox Icy Face Wash 100 g (With Extra 10%)",
+        "brand": "",
+        "price": "₹ 165.00",
+        "oldPrice": "₹ 180.00",
+        "sodexo": "NaN",
+        "offer": "8%"
+      },
+      {
+        "name": "Nivea Body Milk 48 Hour Nourishing Lotion for Very Dry Skin 200 ml",
+        "brand": "",
+        "price": "₹ 213.90",
+        "oldPrice": "₹ 230.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Fair & Handsome 5 Action Fairness System Deep Action Cream for Men 60 g",
+        "brand": "",
+        "price": "₹ 99.00",
+        "oldPrice": "₹ 130.00",
+        "sodexo": "NaN",
+        "offer": "23%"
+      },
+      {
+        "name": "Garnier Men Acno Fight Anti-Pimple Facewash 50 g",
+        "brand": "",
+        "price": "₹ 92.07",
+        "oldPrice": "₹ 99.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Everyuth Walnut Exfoliating Scrub 50 g",
+        "brand": "",
+        "price": "₹ 65.10",
+        "oldPrice": "₹ 70.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Nivea Crème 100 ml",
+        "brand": "",
+        "price": "₹ 138.57",
+        "oldPrice": "₹ 149.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Nivea Soft Vitamin E Light Moisturiser 50 ml",
+        "brand": "",
+        "price": "₹ 79.05",
+        "oldPrice": "₹ 85.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Pond's White Beauty Spot-Less Fairness Face Wash with Micro Foam 50 g",
+        "brand": "",
+        "price": "₹ 73.47",
+        "oldPrice": "₹ 79.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Boroplus Antiseptic Cream 80 ml",
+        "brand": "",
+        "price": "₹ 106.95",
+        "oldPrice": "₹ 115.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Garnier Men Oil Clear Deep Cleansing Clay D-Tox Icy Face Wash 50 g",
+        "brand": "",
+        "price": "₹ 92.07",
+        "oldPrice": "₹ 99.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Everyuth Advanced Golden Glow Peel Off Mask 50 g",
+        "brand": "",
+        "price": "₹ 69.75",
+        "oldPrice": "₹ 75.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Get Real Neem Face Wash 100 ml",
+        "brand": "",
+        "price": "₹ 60.00",
+        "oldPrice": "₹ 120.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Get Real Lemon Face Wash 60 ml",
+        "brand": "",
+        "price": "₹ 36.00",
+        "oldPrice": "₹ 72.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      }
+    ],
+    " Bath & Hand Wash ": [
+      {
+        "name": "Pears Pure & Gentle Soap with Natural Oils 125 g (Pack of 3)",
+        "brand": "",
+        "price": "₹ 120.00",
+        "oldPrice": "₹ 150.00",
+        "sodexo": "NaN",
+        "offer": "20%"
+      },
+      {
+        "name": "Dove Cream Beauty Bathing Soap 100 g (Pack of 3)",
+        "brand": "",
+        "price": "₹ 129.00",
+        "oldPrice": "₹ 160.00",
+        "sodexo": "NaN",
+        "offer": "19%"
+      },
+      {
+        "name": "Lux Soft Touch Bar Soap 150 g (Pack of 3)",
+        "brand": "",
+        "price": "₹ 88.30",
+        "oldPrice": "₹ 114.00",
+        "sodexo": "NaN",
+        "offer": "22%"
+      },
+      {
+        "name": "Dettol Original Soap 125 g (Pack of 4)",
+        "brand": "",
+        "price": "₹ 180.00",
+        "oldPrice": "₹ 200.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Lifebuoy Total 10 Handwash Refill 750 ml (Pouch) (Buy 1 Get 1)",
+        "brand": "",
+        "price": "₹ 189.00",
+        "oldPrice": "NaN",
+        "sodexo": "NaN",
+        "offer": "NaN"
+      },
+      {
+        "name": "Lux Velvet Touch Bar Soap with Jasmine & Almond Oil 150 g (Pack of 3)",
+        "brand": "",
+        "price": "₹ 88.30",
+        "oldPrice": "₹ 114.00",
+        "sodexo": "NaN",
+        "offer": "22%"
+      },
+      {
+        "name": "Santoor Sandal & Turmeric Soap 125 g (Pack of 4)",
+        "brand": "",
+        "price": "₹ 130.00",
+        "oldPrice": "₹ 150.00",
+        "sodexo": "NaN",
+        "offer": "13%"
+      },
+      {
+        "name": "Dettol Original Handwash Refill 750 ml",
+        "brand": "",
+        "price": "₹ 98.10",
+        "oldPrice": "₹ 109.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Dettol Cool Soap with Crispy Menthol 125 g (Pack of 4)",
+        "brand": "",
+        "price": "₹ 163.68",
+        "oldPrice": "₹ 176.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Dettol Original Soap 75 g (Pack of 4)",
+        "brand": "",
+        "price": "₹ 89.28",
+        "oldPrice": "₹ 96.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Lifebuoy Total 10 Soap 125 g (Pack of 4)",
+        "brand": "",
+        "price": "₹ 79.05",
+        "oldPrice": "₹ 85.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Godrej No.1 Lime & Aloe Vera Soap 100 g (Pack of 4)",
+        "brand": "",
+        "price": "₹ 70.68",
+        "oldPrice": "₹ 76.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Fiama Multivariant Gel Bar 125 g (Pack of 4)",
+        "brand": "",
+        "price": "₹ 223.20",
+        "oldPrice": "₹ 240.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Medimix Ayurvedic 18-Herbs Classic Soap 125 g (Pack of 3)",
+        "brand": "",
+        "price": "₹ 94.50",
+        "oldPrice": "₹ 105.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Santoor Classic Handwash Refill 750 ml",
+        "brand": "",
+        "price": "₹ 92.07",
+        "oldPrice": "₹ 99.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Medimix Ayurvedic 18-Herbs Classic Soap 125 g Pack of 4 +1 (On Pack)",
+        "brand": "",
+        "price": "₹ 129.00",
+        "oldPrice": "₹ 160.00",
+        "sodexo": "NaN",
+        "offer": "19%"
+      },
+      {
+        "name": "Mysore Sandal Soap 150 g (Pack of 3)",
+        "brand": "",
+        "price": "₹ 204.60",
+        "oldPrice": "₹ 220.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Mysore Sandal Soap 125 g",
+        "brand": "",
+        "price": "₹ 57.66",
+        "oldPrice": "₹ 62.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Dettol Original Liquid Hand Wash Refill 175 ml",
+        "brand": "",
+        "price": "₹ 41.85",
+        "oldPrice": "₹ 45.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Godrej No.1 Sandal & Turmeric Soap 100 g (Pack of 4)",
+        "brand": "",
+        "price": "₹ 66.96",
+        "oldPrice": "₹ 72.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Dettol Cool Soap with Crispy Menthol 75 g (Pack of 4)",
+        "brand": "",
+        "price": "₹ 89.28",
+        "oldPrice": "₹ 96.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Mysore Sandal Soap 75 g",
+        "brand": "",
+        "price": "₹ 35.34",
+        "oldPrice": "₹ 38.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Mysore Sandal Soap 150 g",
+        "brand": "",
+        "price": "₹ 69.75",
+        "oldPrice": "₹ 75.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Safe Life Floral Blossom Handwash 750 ml",
+        "brand": "",
+        "price": "₹ 87.50",
+        "oldPrice": "₹ 175.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Dettol Skincare Soap with Moisturizers 125 g (Pack of 4)",
+        "brand": "",
+        "price": "₹ 139.50",
+        "oldPrice": "₹ 150.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Cinthol Cool Deo Soap with Menthol 125g (Pack of 3)",
+        "brand": "",
+        "price": "₹ 119.97",
+        "oldPrice": "₹ 129.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Lux International Creamy Perfection Bar Soap 125 g",
+        "brand": "",
+        "price": "₹ 51.15",
+        "oldPrice": "₹ 55.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Dove Cream Beauty Bathing Bar 75 g",
+        "brand": "",
+        "price": "₹ 41.85",
+        "oldPrice": "₹ 45.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Himalaya Herbals Neem & Turmeric Soap 125 g (Pack of 4)",
+        "brand": "",
+        "price": "₹ 148.80",
+        "oldPrice": "₹ 160.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Cinthol Original Deodorant & Complexion Soap 100 g",
+        "brand": "",
+        "price": "₹ 32.55",
+        "oldPrice": "₹ 35.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Jo Lime Sparkling Fresh Soap with Glycerine 100 g (Pack of 4)",
+        "brand": "",
+        "price": "₹ 60.50",
+        "oldPrice": "₹ 70.00",
+        "sodexo": "NaN",
+        "offer": "13%"
+      },
+      {
+        "name": "Dettol Original Soap 120 g",
+        "brand": "",
+        "price": "₹ 46.50",
+        "oldPrice": "₹ 50.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Medimix Glycerine & Lakshadi Oil Transparent Soap 125 g (Pack of 4)",
+        "brand": "",
+        "price": "₹ 186.00",
+        "oldPrice": "₹ 200.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Safe Life Aqueous Fresh Handwash 750 ml",
+        "brand": "",
+        "price": "₹ 87.50",
+        "oldPrice": "₹ 175.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Rexona Silky Soft Skin Coconut & Olive Oil Soap 150 g",
+        "brand": "",
+        "price": "₹ 46.50",
+        "oldPrice": "₹ 50.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Jo Lime Sparkling Fresh Soap with Glycerine 150 g (Pack of 4)",
+        "brand": "",
+        "price": "₹ 81.00",
+        "oldPrice": "₹ 100.00",
+        "sodexo": "NaN",
+        "offer": "19%"
+      },
+      {
+        "name": "Medimix Ayurvedic 18-Herbs Classic Soap 125 g",
+        "brand": "",
+        "price": "₹ 37.20",
+        "oldPrice": "₹ 40.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Cinthol Confidence+ Germ Protection Soap 125g (Pack of 3)",
+        "brand": "",
+        "price": "₹ 116.00",
+        "oldPrice": "₹ 129.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Pears Soft & Fresh Soap with Mint Extracts 75 g",
+        "brand": "",
+        "price": "₹ 38.13",
+        "oldPrice": "₹ 41.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Himalaya Neem & Turmeric Soap 75 g (Pack of 4)",
+        "brand": "",
+        "price": "₹ 101.37",
+        "oldPrice": "₹ 109.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Santoor Sandal & Turmeric Soap 150 g",
+        "brand": "",
+        "price": "₹ 37.20",
+        "oldPrice": "₹ 40.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Pears Pure & Gentle Soap with Natural Oils 125 g",
+        "brand": "",
+        "price": "₹ 60.45",
+        "oldPrice": "₹ 65.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Jo Almond & Cream Soap with Glycerine 150 g (Pack of 4)",
+        "brand": "",
+        "price": "₹ 81.00",
+        "oldPrice": "₹ 100.00",
+        "sodexo": "NaN",
+        "offer": "19%"
+      },
+      {
+        "name": "Pears Pure & Gentle Soap with Natural Oils 75 g",
+        "brand": "",
+        "price": "₹ 35.34",
+        "oldPrice": "₹ 38.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Dettol Original Soap 75 g",
+        "brand": "",
+        "price": "₹ 27.90",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Lux Soft Touch Bar Soap 100 g",
+        "brand": "",
+        "price": "₹ 20.46",
+        "oldPrice": "₹ 22.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Biotique Basil & Parsley Revitalizing Body Soap 150 g",
+        "brand": "",
+        "price": "₹ 81.00",
+        "oldPrice": "₹ 90.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Medimix Ayurvedic 18-Herbs Classic Soap 75 g",
+        "brand": "",
+        "price": "₹ 26.04",
+        "oldPrice": "₹ 28.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Patanjali Neem Kanti Body Cleanser 75 g",
+        "brand": "",
+        "price": "₹ 15.00",
+        "oldPrice": "NaN",
+        "sodexo": "NaN",
+        "offer": "NaN"
+      },
+      {
+        "name": "Patanjali Haldi-Chandan Kanti Body Cleanser 75 g",
+        "brand": "",
+        "price": "₹ 15.00",
+        "oldPrice": "NaN",
+        "sodexo": "NaN",
+        "offer": "NaN"
+      },
+      {
+        "name": "Biotique Almond Oil Nourishing Body Soap 150 g",
+        "brand": "",
+        "price": "₹ 81.00",
+        "oldPrice": "₹ 90.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Lux Soft Touch Bar Soap 150 g",
+        "brand": "",
+        "price": "₹ 37.20",
+        "oldPrice": "₹ 40.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Lux Velvet Touch Bar Soap with Jasmine & Almond Oil 100 g",
+        "brand": "",
+        "price": "₹ 20.46",
+        "oldPrice": "₹ 22.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Patanjali Haldi-Chandan Kanti Body Cleanser 150 g",
+        "brand": "",
+        "price": "₹ 28.00",
+        "oldPrice": "NaN",
+        "sodexo": "NaN",
+        "offer": "NaN"
+      },
+      {
+        "name": "Godrej Shikakai 3 in 1 Soap with Amla & Bhringraj 75 g",
+        "brand": "",
+        "price": "₹ 18.60",
+        "oldPrice": "₹ 20.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Biotique Almond Oil Nourishing Body Soap 75 g",
+        "brand": "",
+        "price": "₹ 45.00",
+        "oldPrice": "₹ 50.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      }
+    ],
+    " Body Wash & Bathing Accessories ": [
+      {
+        "name": "Nivea Lemon & Oil Shower Gel 250 ml",
+        "brand": "",
+        "price": "₹ 179.10",
+        "oldPrice": "₹ 199.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Nivea Waterlily & Oil Shower Gel 250 ml",
+        "brand": "",
+        "price": "₹ 185.07",
+        "oldPrice": "₹ 199.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Get Real Aloe+Glycerine Shower Gel 250 ml",
+        "brand": "",
+        "price": "₹ 74.50",
+        "oldPrice": "₹ 149.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Palmolive Aroma Morning Tonic Shower Gel 250 ml",
+        "brand": "",
+        "price": "₹ 185.07",
+        "oldPrice": "₹ 199.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      }
+    ],
+    " Feminine Hygiene ": [
+      {
+        "name": "Stayfree All Night Ultra-Dry Max Sanitary Napkin with Wings (XL) 42 pads",
+        "brand": "",
+        "price": "₹ 350.00",
+        "oldPrice": "₹ 450.00",
+        "sodexo": "NaN",
+        "offer": "22%"
+      },
+      {
+        "name": "Stayfree Dry-Max All Night Ultra Sanitary Napkin with Wings (XL) 28 pads",
+        "brand": "",
+        "price": "₹ 316.20",
+        "oldPrice": "₹ 340.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Petals Ultra Comfort Sanitary Napkins with Wings (XL+) 30 pads",
+        "brand": "",
+        "price": "₹ 190.00",
+        "oldPrice": "₹ 380.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Supermax Triple Blade Disposable Razor for Women 5 pcs",
+        "brand": "",
+        "price": "₹ 100.00",
+        "oldPrice": "₹ 200.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Gillette Venus Women Razor with Aloe Glide Strips",
+        "brand": "",
+        "price": "₹ 204.60",
+        "oldPrice": "₹ 220.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Veet Easy-Gelwax Full Body Waxing Kit for Sensitive Skin 20 pcs",
+        "brand": "",
+        "price": "₹ 185.07",
+        "oldPrice": "₹ 199.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Petals Soft and Dry Sanitary Napkin (XL) 6 pads",
+        "brand": "",
+        "price": "₹ 24.50",
+        "oldPrice": "₹ 49.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Carefree Super Dry Unscented Panty Liners 20 pcs",
+        "brand": "",
+        "price": "₹ 81.00",
+        "oldPrice": "₹ 90.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      }
+    ],
+    " Men's Grooming ": [
+      {
+        "name": "Gillette Vector Shaving Cartridge Twin Blades 6 Pcs",
+        "brand": "",
+        "price": "₹ 153.45",
+        "oldPrice": "₹ 165.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Nivea Men Sensitive After Shave Lotion 100 ml",
+        "brand": "",
+        "price": "₹ 194.37",
+        "oldPrice": "₹ 209.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Gillette Series Sensitive Skin Shave Gel 60 g",
+        "brand": "",
+        "price": "₹ 79.05",
+        "oldPrice": "₹ 85.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Gillette Shaving Brush",
+        "brand": "",
+        "price": "₹ 50.22",
+        "oldPrice": "₹ 54.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      }
+    ],
+    " Deo & Fragrances ": [
+      {
+        "name": "Park Avenue Signature Collection Voyage Perfume Spray 235 ml",
+        "brand": "",
+        "price": "₹ 149.50",
+        "oldPrice": "₹ 299.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Fogg Absolute Fragrance Body Spray for Men 120 ml",
+        "brand": "",
+        "price": "₹ 100.00",
+        "oldPrice": "₹ 200.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Kamasutra Spark Deodorant Spray for Men 260 ml",
+        "brand": "",
+        "price": "₹ 149.50",
+        "oldPrice": "₹ 299.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Fogg Dynamic Fragrance Body Spray for Men 120 ml",
+        "brand": "",
+        "price": "₹ 100.00",
+        "oldPrice": "₹ 200.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Fogg Extreme Fragrance Body Spray for Men 120 ml",
+        "brand": "",
+        "price": "₹ 100.00",
+        "oldPrice": "₹ 200.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Wild Stone Men Deo Red 225 ml",
+        "brand": "",
+        "price": "₹ 149.50",
+        "oldPrice": "₹ 299.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Kamasutra Spark Power Series Perfume Spray 135 ml",
+        "brand": "",
+        "price": "₹ 105.00",
+        "oldPrice": "₹ 210.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Engage Man XX2 Cologne Spray 135 ml",
+        "brand": "",
+        "price": "₹ 125.00",
+        "oldPrice": "₹ 250.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Nivea Whitening Smooth Skin Roll-On Deodorant for Women 50 ml",
+        "brand": "",
+        "price": "₹ 172.05",
+        "oldPrice": "₹ 185.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Nivea Pearl & Beauty Roll-On Deodorant for Women 50 ml",
+        "brand": "",
+        "price": "₹ 172.05",
+        "oldPrice": "₹ 185.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Nivea Men Fresh Active Roll-On Deodorant 50 ml",
+        "brand": "",
+        "price": "₹ 145.00",
+        "oldPrice": "₹ 185.00",
+        "sodexo": "NaN",
+        "offer": "21%"
+      },
+      {
+        "name": "Kamasutra Urge Deodorant Spray for Men 150 ml",
+        "brand": "",
+        "price": "₹ 105.00",
+        "oldPrice": "₹ 210.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Engage Woman Blush Bodylicious Deo Spray 165 ml",
+        "brand": "",
+        "price": "₹ 171.00",
+        "oldPrice": "₹ 190.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Park Avenue Signature Collection Neo Perfume Spray for Men 235 ml",
+        "brand": "",
+        "price": "₹ 278.07",
+        "oldPrice": "₹ 299.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Fogg Napoleon Fragrance Body Spray for Men 150 ml",
+        "brand": "",
+        "price": "₹ 170.00",
+        "oldPrice": "₹ 230.00",
+        "sodexo": "NaN",
+        "offer": "26%"
+      },
+      {
+        "name": "Nivea Men Cool Kick Deodorant 150 ml",
+        "brand": "",
+        "price": "₹ 170.00",
+        "oldPrice": "₹ 210.00",
+        "sodexo": "NaN",
+        "offer": "19%"
+      },
+      {
+        "name": "Fogg Marco Fragrance Body Spray for Men 150 ml",
+        "brand": "",
+        "price": "₹ 170.00",
+        "oldPrice": "₹ 230.00",
+        "sodexo": "NaN",
+        "offer": "26%"
+      },
+      {
+        "name": "Nivea Protect & Care Anti-Perspirant Deodorant for Women 150 ml",
+        "brand": "",
+        "price": "₹ 185.07",
+        "oldPrice": "₹ 199.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Nivea Fresh Natural Roll-On Deodorant for Women 50 ml",
+        "brand": "",
+        "price": "₹ 172.05",
+        "oldPrice": "₹ 185.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Engage Woman Spell Deo Spray 150 ml",
+        "brand": "",
+        "price": "₹ 175.50",
+        "oldPrice": "₹ 195.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Fogg Paradise Fragrance Body Spray for Women 150 ml",
+        "brand": "",
+        "price": "₹ 170.00",
+        "oldPrice": "₹ 230.00",
+        "sodexo": "NaN",
+        "offer": "26%"
+      },
+      {
+        "name": "Fogg Fresh Woody Fragrance Body Spray for Men 150 ml",
+        "brand": "",
+        "price": "₹ 215.00",
+        "oldPrice": "₹ 275.00",
+        "sodexo": "NaN",
+        "offer": "21%"
+      },
+      {
+        "name": "Engage Man Urge Deo Spray 150 ml",
+        "brand": "",
+        "price": "₹ 175.50",
+        "oldPrice": "₹ 195.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Nivea Men Fresh Active Original Deodorant 150 ml",
+        "brand": "",
+        "price": "₹ 179.10",
+        "oldPrice": "₹ 199.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Nivea Pearl & Beauty Deodorant for Women 150 ml",
+        "brand": "",
+        "price": "₹ 179.10",
+        "oldPrice": "₹ 199.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Engage Man Mate Deo Spray 150 ml",
+        "brand": "",
+        "price": "₹ 171.00",
+        "oldPrice": "₹ 190.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Yardley London English Rose Refreshing Body Spray for Women 150 ml",
+        "brand": "",
+        "price": "₹ 175.00",
+        "oldPrice": "₹ 190.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Yardley English Lavender Refreshing Body Spray for Women 150 ml",
+        "brand": "",
+        "price": "₹ 175.00",
+        "oldPrice": "₹ 190.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Kamasutra Spark Deodorant Spray for Men 150 ml",
+        "brand": "",
+        "price": "₹ 180.00",
+        "oldPrice": "₹ 210.00",
+        "sodexo": "NaN",
+        "offer": "14%"
+      },
+      {
+        "name": "Nivea Men Protect & Care Deodorant 150 ml",
+        "brand": "",
+        "price": "₹ 159.00",
+        "oldPrice": "₹ 199.00",
+        "sodexo": "NaN",
+        "offer": "20%"
+      },
+      {
+        "name": "Fogg Essence Fragrance Body Spray for Women 150 ml",
+        "brand": "",
+        "price": "₹ 170.00",
+        "oldPrice": "₹ 230.00",
+        "sodexo": "NaN",
+        "offer": "26%"
+      },
+      {
+        "name": "Park Avenue Impact Magnifico Perfume for Men 150 ml",
+        "brand": "",
+        "price": "₹ 223.20",
+        "oldPrice": "₹ 240.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Wild Stone Bronze Perfume Body Spray for Men 120 ml",
+        "brand": "",
+        "price": "₹ 202.00",
+        "oldPrice": "₹ 225.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      }
+    ],
+    " Health & Wellness ": [
+      {
+        "name": "Moov Pain Relief Cream 50 g",
+        "brand": "",
+        "price": "₹ 129.00",
+        "oldPrice": "₹ 169.00",
+        "sodexo": "NaN",
+        "offer": "23%"
+      },
+      {
+        "name": "Moov Pain Relief Specialist Spray 35 g",
+        "brand": "",
+        "price": "₹ 110.00",
+        "oldPrice": "₹ 130.00",
+        "sodexo": "NaN",
+        "offer": "15%"
+      },
+      {
+        "name": "Dabur Imli Hajmola 120 g",
+        "brand": "",
+        "price": "₹ 35.00",
+        "oldPrice": "₹ 40.00",
+        "sodexo": "NaN",
+        "offer": "12%"
+      },
+      {
+        "name": "Dabur Regular Hajmola 120 pcs",
+        "brand": "",
+        "price": "₹ 35.00",
+        "oldPrice": "₹ 40.00",
+        "sodexo": "NaN",
+        "offer": "12%"
+      },
+      {
+        "name": "Durex Extra Thin Condoms 10 pcs",
+        "brand": "",
+        "price": "₹ 162.75",
+        "oldPrice": "₹ 217.00",
+        "sodexo": "NaN",
+        "offer": "25%"
+      },
+      {
+        "name": "Durex Extra Ribbed Condoms 10 pcs",
+        "brand": "",
+        "price": "₹ 162.75",
+        "oldPrice": "₹ 217.00",
+        "sodexo": "NaN",
+        "offer": "25%"
+      }
+    ],
+    " Makeup ": [
+      {
+        "name": "Garnier Skin Naturals Micellar Cleansing Water 125 ml",
+        "brand": "",
+        "price": "₹ 162.75",
+        "oldPrice": "₹ 175.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      }
+    ]
+  },
+  "Home Care": {
+    " Detergents ": [
+      {
+        "name": "Tide Plus Lemon & Mint Detergent Powder 4 kg (Get 1 kg Free)",
+        "brand": "",
+        "price": "₹ 365.00",
+        "oldPrice": "₹ 465.00",
+        "sodexo": "NaN",
+        "offer": "21%"
+      },
+      {
+        "name": "Ariel Matic Front Load Detergent Powder 4 kg (Get Extra 2 kg Free)",
+        "brand": "",
+        "price": "₹ 879.00",
+        "oldPrice": "₹ 1,150.00",
+        "sodexo": "NaN",
+        "offer": "23%"
+      },
+      {
+        "name": "Ariel Complete Detergent Powder 1 kg (Get Extra 500 g Free)",
+        "brand": "",
+        "price": "₹ 267.84",
+        "oldPrice": "₹ 288.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Surf Excel Easy Wash Detergent Powder 500 g",
+        "brand": "",
+        "price": "₹ 54.87",
+        "oldPrice": "₹ 59.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Tide Plus Lemon & Mint Detergent Powder 2 kg",
+        "brand": "",
+        "price": "₹ 172.00",
+        "oldPrice": "₹ 212.00",
+        "sodexo": "NaN",
+        "offer": "18%"
+      },
+      {
+        "name": "Tide Plus Jasmine & Rose Detergent Powder 2 kg",
+        "brand": "",
+        "price": "₹ 172.00",
+        "oldPrice": "₹ 212.00",
+        "sodexo": "NaN",
+        "offer": "18%"
+      },
+      {
+        "name": "Surf Excel Quick Wash Detergent Powder 500 g",
+        "brand": "",
+        "price": "₹ 83.70",
+        "oldPrice": "₹ 90.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Surf Excel Matic Front Load Detergent Powder 2 kg",
+        "brand": "",
+        "price": "₹ 332.50",
+        "oldPrice": "₹ 530.00",
+        "sodexo": "NaN",
+        "offer": "37%"
+      },
+      {
+        "name": "Ariel Complete Detergent Powder 500 g (Get Extra 200 g Free)",
+        "brand": "",
+        "price": "₹ 125.55",
+        "oldPrice": "₹ 135.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Wipro Safewash Matic Front Load Liquid Detergent 2 L",
+        "brand": "",
+        "price": "₹ 315.00",
+        "oldPrice": "₹ 390.00",
+        "sodexo": "NaN",
+        "offer": "19%"
+      },
+      {
+        "name": "Wipro Safewash Matic Top Load Liquid Detergent 2 L",
+        "brand": "",
+        "price": "₹ 315.00",
+        "oldPrice": "₹ 390.00",
+        "sodexo": "NaN",
+        "offer": "19%"
+      },
+      {
+        "name": "Enzo Matic Front Load Detergent Powder 6 kg",
+        "brand": "",
+        "price": "₹ 649.00",
+        "oldPrice": "₹ 899.00",
+        "sodexo": "NaN",
+        "offer": "27%"
+      },
+      {
+        "name": "Henko Stain Care Oxygen Power Detergent Powder 1 kg",
+        "brand": "",
+        "price": "₹ 111.60",
+        "oldPrice": "₹ 120.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Vanish Oxi Action Stain Remover Liquid 400 ml",
+        "brand": "",
+        "price": "₹ 97.65",
+        "oldPrice": "₹ 105.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Surf Excel Matic Top Load Detergent Powder 1 kg",
+        "brand": "",
+        "price": "₹ 178.75",
+        "oldPrice": "₹ 225.00",
+        "sodexo": "NaN",
+        "offer": "20%"
+      },
+      {
+        "name": "Revive Liquid Stiffener 400 g",
+        "brand": "",
+        "price": "₹ 119.97",
+        "oldPrice": "₹ 129.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Enzo Matic Top Load Detergent Powder 6 kg",
+        "brand": "",
+        "price": "₹ 649.00",
+        "oldPrice": "₹ 899.00",
+        "sodexo": "NaN",
+        "offer": "27%"
+      },
+      {
+        "name": "Godrej Ezee Winterwear, Chiffon & Silks Liquid Detergent 470 ml",
+        "brand": "",
+        "price": "₹ 83.70",
+        "oldPrice": "₹ 90.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Henko Matic Front Load Detergent Powder 2 kg",
+        "brand": "",
+        "price": "₹ 405.00",
+        "oldPrice": "₹ 480.00",
+        "sodexo": "NaN",
+        "offer": "15%"
+      },
+      {
+        "name": "Sudz Double White Detergent Powder 4 kg",
+        "brand": "",
+        "price": "₹ 299.00",
+        "oldPrice": "₹ 384.00",
+        "sodexo": "NaN",
+        "offer": "22%"
+      },
+      {
+        "name": "Henko Matic Front Load Detergent Powder 1 kg",
+        "brand": "",
+        "price": "₹ 225.00",
+        "oldPrice": "₹ 250.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Enzo Matic Front Load Detergent Powder 2 kg",
+        "brand": "",
+        "price": "₹ 249.00",
+        "oldPrice": "₹ 349.00",
+        "sodexo": "NaN",
+        "offer": "28%"
+      },
+      {
+        "name": "Henko Stain Champion Detergent Bar 250 g",
+        "brand": "",
+        "price": "₹ 27.90",
+        "oldPrice": "₹ 30.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Henko Matic Top Load Detergent Powder 1 kg (Get 500 g Free)",
+        "brand": "",
+        "price": "₹ 200.00",
+        "oldPrice": "₹ 225.00",
+        "sodexo": "NaN",
+        "offer": "11%"
+      },
+      {
+        "name": "Enzo Matic Top Load Detergent Powder 2 kg",
+        "brand": "",
+        "price": "₹ 249.00",
+        "oldPrice": "₹ 349.00",
+        "sodexo": "NaN",
+        "offer": "28%"
+      },
+      {
+        "name": "Patanjali Herbal Wash Neem & Rose Detergent Cake 250 g",
+        "brand": "",
+        "price": "₹ 12.00",
+        "oldPrice": "NaN",
+        "sodexo": "NaN",
+        "offer": "NaN"
+      },
+      {
+        "name": "Revive Liquid Stiffener 200 g",
+        "brand": "",
+        "price": "₹ 66.03",
+        "oldPrice": "₹ 71.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Patanjali Herbal Wash Neem and Rose Detergent Powder 500 g",
+        "brand": "",
+        "price": "₹ 28.00",
+        "oldPrice": "NaN",
+        "sodexo": "NaN",
+        "offer": "NaN"
+      },
+      {
+        "name": "Sudz Double White Detergent Powder 2 kg",
+        "brand": "",
+        "price": "₹ 152.00",
+        "oldPrice": "₹ 192.00",
+        "sodexo": "NaN",
+        "offer": "20%"
+      },
+      {
+        "name": "Sudz Double White Detergent Powder 1 kg",
+        "brand": "",
+        "price": "₹ 76.00",
+        "oldPrice": "₹ 96.00",
+        "sodexo": "NaN",
+        "offer": "20%"
+      }
+    ],
+    " Dishwash ": [
+      {
+        "name": "Vim Lemon Concentrated Dishwash Gel 750 ml",
+        "brand": "",
+        "price": "₹ 120.00",
+        "oldPrice": "₹ 155.00",
+        "sodexo": "NaN",
+        "offer": "22%"
+      },
+      {
+        "name": "Vim Dishwash Bar 200 g (Pack of 3)",
+        "brand": "",
+        "price": "₹ 39.00",
+        "oldPrice": "₹ 45.00",
+        "sodexo": "NaN",
+        "offer": "13%"
+      },
+      {
+        "name": "Patanjali Lemon & Wood Ash Super Dishwash Bar 175 g",
+        "brand": "",
+        "price": "₹ 10.00",
+        "oldPrice": "NaN",
+        "sodexo": "NaN",
+        "offer": "NaN"
+      },
+      {
+        "name": "Pitambari Shining Dishwash Powder 200 g",
+        "brand": "",
+        "price": "₹ 53.94",
+        "oldPrice": "₹ 58.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Vim Lemon Dishwash Liquid 250 ml",
+        "brand": "",
+        "price": "₹ 41.85",
+        "oldPrice": "₹ 45.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Pril Perfect Lime Dishwash Liquid 500 ml",
+        "brand": "",
+        "price": "₹ 102.00",
+        "oldPrice": "₹ 115.00",
+        "sodexo": "NaN",
+        "offer": "11%"
+      },
+      {
+        "name": "Pril Perfect Lime Dishwash Liquid 120 ml",
+        "brand": "",
+        "price": "₹ 18.60",
+        "oldPrice": "₹ 20.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      }
+    ],
+    " All Purpose Cleaners ": [
+      {
+        "name": "Harpic Power Plus Original Disinfectant Toilet Cleaner 600 ml (Pack of 3)",
+        "brand": "",
+        "price": "₹ 193.50",
+        "oldPrice": "₹ 215.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Lizol Disinfectant Surface & Floor Cleaner Liquid Citrus 975 ml",
+        "brand": "",
+        "price": "₹ 154.00",
+        "oldPrice": "₹ 179.00",
+        "sodexo": "NaN",
+        "offer": "13%"
+      },
+      {
+        "name": "Lizol Citrus Disinfectant Surface & FLoor Cleaner 975 ml (Buy 2 Get 1 500 ml Free)",
+        "brand": "",
+        "price": "₹ 332.94",
+        "oldPrice": "₹ 358.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Lizol Disinfectant Surface & Floor Cleaner Liquid Floral 975 ml",
+        "brand": "",
+        "price": "₹ 154.00",
+        "oldPrice": "₹ 179.00",
+        "sodexo": "NaN",
+        "offer": "13%"
+      },
+      {
+        "name": "Harpic Disinfectant Bathroom Cleaner Lemon 500 ml",
+        "brand": "",
+        "price": "₹ 84.63",
+        "oldPrice": "₹ 91.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Harpic Disinfectant Cleaner Floral 500 ml",
+        "brand": "",
+        "price": "₹ 81.90",
+        "oldPrice": "₹ 91.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Sanifresh Bathroom Cleaner 450 ml",
+        "brand": "",
+        "price": "₹ 92.07",
+        "oldPrice": "₹ 99.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Harpic Powerplus Toilet Cleaner Original 200 ml",
+        "brand": "",
+        "price": "₹ 35.34",
+        "oldPrice": "₹ 38.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Mr. Muscle Lemon Kitchen Cleaner Spray 500 ml",
+        "brand": "",
+        "price": "₹ 120.90",
+        "oldPrice": "₹ 130.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Lizol Kitchen Power Cleaner Spray 450 ml",
+        "brand": "",
+        "price": "₹ 119.97",
+        "oldPrice": "₹ 129.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Lizol Bathroom Power Cleaner Spray 450 ml",
+        "brand": "",
+        "price": "₹ 126.48",
+        "oldPrice": "₹ 136.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      }
+    ],
+    " Fresheners & Repellents ": [
+      {
+        "name": "Freshomz Jasmine Air Freshener Block 75 g (Pack of 2)",
+        "brand": "",
+        "price": "₹ 69.00",
+        "oldPrice": "NaN",
+        "sodexo": "NaN",
+        "offer": "NaN"
+      },
+      {
+        "name": "Freshomz Rose Air Freshener Block 50 g (Pack of 2)",
+        "brand": "",
+        "price": "₹ 49.00",
+        "oldPrice": "NaN",
+        "sodexo": "NaN",
+        "offer": "NaN"
+      },
+      {
+        "name": "Freshomz Orchid Air Freshener Block 50 g (Pack of 2)",
+        "brand": "",
+        "price": "₹ 49.00",
+        "oldPrice": "NaN",
+        "sodexo": "NaN",
+        "offer": "NaN"
+      },
+      {
+        "name": "Odonil Lavender Meadows Air Freshener Block 75 g",
+        "brand": "",
+        "price": "₹ 64.00",
+        "oldPrice": "₹ 70.00",
+        "sodexo": "NaN",
+        "offer": "8%"
+      },
+      {
+        "name": "Godrej Aer Twist Cool Surf Blue Car Freshener Gel 45 g",
+        "brand": "",
+        "price": "₹ 352.47",
+        "oldPrice": "₹ 379.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Ambi Pur Car Lavender Spa Car Freshener Refill 7.5 ml",
+        "brand": "",
+        "price": "₹ 185.07",
+        "oldPrice": "₹ 199.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      }
+    ],
+    " Mops, Brushes & Scrubs ": [
+      {
+        "name": "Home One Grass Broom",
+        "brand": "",
+        "price": "₹ 55.00",
+        "oldPrice": "₹ 120.00",
+        "sodexo": "NaN",
+        "offer": "54%"
+      },
+      {
+        "name": "Gala No Dust Broom (XL)",
+        "brand": "",
+        "price": "₹ 149.00",
+        "oldPrice": "₹ 200.00",
+        "sodexo": "NaN",
+        "offer": "25%"
+      },
+      {
+        "name": "Gala Super Scrub (10 cm x 10 cm)",
+        "brand": "",
+        "price": "₹ 27.00",
+        "oldPrice": "₹ 35.00",
+        "sodexo": "NaN",
+        "offer": "22%"
+      },
+      {
+        "name": "Multipurpose Kitchen Cloth 15\" X 15\" ( Pack Of 3 )",
+        "brand": "",
+        "price": "₹ 74.50",
+        "oldPrice": "₹ 149.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      }
+    ],
+    " Electrical ": [
+      {
+        "name": "Eveready Red 1015 AA Carbon Zinc Batteries (Pack of 10)",
+        "brand": "",
+        "price": "₹ 109.00",
+        "oldPrice": "₹ 150.00",
+        "sodexo": "NaN",
+        "offer": "27%"
+      },
+      {
+        "name": "Eveready Red 1012 AAA Carbon Zinc Batteries (Pack of 10)",
+        "brand": "",
+        "price": "₹ 109.00",
+        "oldPrice": "₹ 130.00",
+        "sodexo": "NaN",
+        "offer": "16%"
+      },
+      {
+        "name": "Duracell Ultra Alkaline AAA Batteries (Pack Of 4)",
+        "brand": "",
+        "price": "₹ 144.00",
+        "oldPrice": "₹ 160.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Duracell Ultra Alkaline AA Batteries (Pack Of 4)",
+        "brand": "",
+        "price": "₹ 144.00",
+        "oldPrice": "₹ 160.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      }
+    ],
+    " Disposables ": [
+      {
+        "name": "Puric Paper Napkin 100 pcs",
+        "brand": "",
+        "price": "₹ 39.00",
+        "oldPrice": "₹ 60.00",
+        "sodexo": "NaN",
+        "offer": "35%"
+      },
+      {
+        "name": "Puric Facial Tissues 100 pcs (Twin Pack)",
+        "brand": "",
+        "price": "₹ 99.00",
+        "oldPrice": "₹ 130.00",
+        "sodexo": "NaN",
+        "offer": "23%"
+      },
+      {
+        "name": "Puric Toilet Paper Roll 235 pulls (Pack of 4)",
+        "brand": "",
+        "price": "₹ 79.00",
+        "oldPrice": "₹ 160.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      }
+    ],
+    " Pooja Needs ": [
+      {
+        "name": "Mangaldeep 4 in 1 Puja Agarbatti 120 pcs",
+        "brand": "",
+        "price": "₹ 32.50",
+        "oldPrice": "₹ 65.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      },
+      {
+        "name": "Hari Darshan Dry Chandan Dhoop 16 Sticks",
+        "brand": "",
+        "price": "₹ 22.50",
+        "oldPrice": "₹ 25.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      }
+    ],
+    " Shoe Care ": [
+      {
+        "name": "Cherry Blossom Wax Polish Black 40 g",
+        "brand": "",
+        "price": "₹ 54.87",
+        "oldPrice": "₹ 59.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Kiwi 2 in 1 Shoe Brush",
+        "brand": "",
+        "price": "₹ 74.40",
+        "oldPrice": "₹ 80.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Cherry Blossom Liquid Polish Black 75 ml",
+        "brand": "",
+        "price": "₹ 79.05",
+        "oldPrice": "₹ 85.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Kiwi Express Shine Neutral Instant Shine Sponge 7 ml",
+        "brand": "",
+        "price": "₹ 66.96",
+        "oldPrice": "₹ 72.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Kiwi Express Shine Black Sponge 5 ml",
+        "brand": "",
+        "price": "₹ 66.96",
+        "oldPrice": "₹ 72.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Cherry Blossom Black Shoe Polish 15 g",
+        "brand": "",
+        "price": "₹ 30.69",
+        "oldPrice": "₹ 33.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Kiwi Shine & Protect Black Instant Polish 75 ml",
+        "brand": "",
+        "price": "₹ 68.82",
+        "oldPrice": "₹ 74.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Cherry Blossom Dark Tan Shoe Polish 40 g",
+        "brand": "",
+        "price": "₹ 54.87",
+        "oldPrice": "₹ 59.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Cherry Blossom Wax Polish Dark Tan 15 g",
+        "brand": "",
+        "price": "₹ 30.69",
+        "oldPrice": "₹ 33.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Cherry Blossom Liquid Polish White 75 ml",
+        "brand": "",
+        "price": "₹ 51.15",
+        "oldPrice": "₹ 55.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      }
+    ],
+    " Stationery ": [
+      {
+        "name": "Cello 0.7 mm Blue Fine Grip Ball Point Pen (Pack of 5)",
+        "brand": "",
+        "price": "₹ 30.75",
+        "oldPrice": "₹ 35.00",
+        "sodexo": "NaN",
+        "offer": "12%"
+      }
+    ]
+  },
+  "Baby Care": {
+    " Baby Grooming ": [
+      {
+        "name": "Himalaya Baby Powder 200 g",
+        "brand": "",
+        "price": "₹ 111.60",
+        "oldPrice": "₹ 120.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Himalaya Baby Massage Oil 200 ml",
+        "brand": "",
+        "price": "₹ 162.75",
+        "oldPrice": "₹ 175.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Himalaya Baby Lotion 100 ml",
+        "brand": "",
+        "price": "₹ 83.70",
+        "oldPrice": "₹ 90.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Dabur Lal Tail 200 ml",
+        "brand": "",
+        "price": "₹ 162.75",
+        "oldPrice": "₹ 175.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Himalaya Baby Diaper Rash Cream with Almond Oil 50 g",
+        "brand": "",
+        "price": "₹ 102.30",
+        "oldPrice": "₹ 110.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      }
+    ],
+    " Baby Bath & Hygiene ": [
+      {
+        "name": "Himalaya Gentle Baby No Tears Shampoo with Hibiscus & Chickpea 200 ml",
+        "brand": "",
+        "price": "₹ 148.80",
+        "oldPrice": "₹ 160.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Johnson's Baby Soap 100 g (Buy 3 Get 1 Free)",
+        "brand": "",
+        "price": "₹ 167.40",
+        "oldPrice": "₹ 186.00",
+        "sodexo": "NaN",
+        "offer": "10%"
+      },
+      {
+        "name": "Himalaya Gentle Baby Soap 125 g",
+        "brand": "",
+        "price": "₹ 65.10",
+        "oldPrice": "₹ 70.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Johnson's Baby Shampoo 200 ml",
+        "brand": "",
+        "price": "₹ 162.75",
+        "oldPrice": "₹ 175.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Himalaya Extra Moisturizing Baby Soap 75 g",
+        "brand": "",
+        "price": "₹ 44.64",
+        "oldPrice": "₹ 48.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Johnson's Baby Blossoms Soap 75 g",
+        "brand": "",
+        "price": "₹ 46.50",
+        "oldPrice": "₹ 50.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Johnson's Baby Soap 150 g",
+        "brand": "",
+        "price": "₹ 83.70",
+        "oldPrice": "₹ 90.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Johnson's Baby Shampoo 100 ml",
+        "brand": "",
+        "price": "₹ 83.70",
+        "oldPrice": "₹ 90.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      },
+      {
+        "name": "Johnson's Baby Soap 75 g",
+        "brand": "",
+        "price": "₹ 48.36",
+        "oldPrice": "₹ 52.00",
+        "sodexo": "NaN",
+        "offer": "7%"
+      }
+    ],
+    " Diapers & Wipes ": [
+      {
+        "name": "Pampers Baby Dry Pants (XL) 34 count (12 – 17 kg)",
+        "brand": "",
+        "price": "₹ 549.00",
+        "oldPrice": "₹ 699.00",
+        "sodexo": "NaN",
+        "offer": "21%"
+      },
+      {
+        "name": "Pampers Baby Dry Pants (S) 58 count (4 - 8 kg)",
+        "brand": "",
+        "price": "₹ 549.00",
+        "oldPrice": "₹ 699.00",
+        "sodexo": "NaN",
+        "offer": "21%"
+      },
+      {
+        "name": "Johnson's Baby Skincare Wipes 80 pcs",
+        "brand": "",
+        "price": "₹ 185.00",
+        "oldPrice": "₹ 230.00",
+        "sodexo": "NaN",
+        "offer": "19%"
+      },
+      {
+        "name": "Mother Care Baby Wipes 60 Pcs With Fragrance",
+        "brand": "",
+        "price": "₹ 87.50",
+        "oldPrice": "₹ 175.00",
+        "sodexo": "NaN",
+        "offer": "50%"
+      }
+    ]
+  }
+}
